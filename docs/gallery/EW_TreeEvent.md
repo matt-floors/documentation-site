@@ -13,21 +13,21 @@ description: "The EW Tree Event widget displays in PI Vision the AF hierarchical
 
 | Revision N.  | Date | Author  | Document ID  | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | September 2017 | GT  | EW\_TreeEvent\_v1.0.doc | First review |
-| 2.0  | December 2017 | GT | EW\_TreeEvent\_v2.0.doc | Widget configuration restyling Installation procedure modification |
-| 2.1  | January 2018 | PC | EW\_TreeEvent\_v2.1.doc | Review and research functionality add |
-| 2.0\*  | March 2019 | RR | EW\_TreeEvent\_v2.0.doc | Review \* Review of the modified N. in order to align it with the version number of the Widget |
-| 2.3  | June 2019 | PC | EW\_TreeEvent\_v2.3.doc | Change of the icon element path; Highlight the selected element; Performances increased; Library use EWAPIService; |
-| 2.4  | Novembre 2019 | PC | EW\_TreeEvent\_v2.4.doc | Bug Fixes |
-| 2.5 | August 2020 | PC | EW\_TreeEvent\_v2.5.doc | Bug Fixes |
-| 2.5 | August 2020 | MDV | EW\_TreeEvent\_v2.5\_en.doc | Revision of documentation Bug Fixes |
-| 4.0 | October 2020 | OS | EW\_TreeEvent\_v4.0\_en.doc | Compatibility PIVision 2020 |
-| 6.0  | October 2021 | MDC | EW\_TreeEvent\_v6.0\_en.doc | Compatibility PIVision 2021 |
-| 7.0  | August 2022 | AM | EW\_TreeEvent\_v7.0\_en.doc | Compatibility PIVision 2022 |
-| 8.0 | August 2023 | MM | EW\_TreeEvent\_v8.0\_en.doc | Compatibility PIVision 2023 |
-| 8.1  | December 2023 | MDC | EW\_TreeEvent\_v8.1\_en.doc | BugFix |
-| 8.2  | January 2024 | MDC | EW\_TreeEvent\_v8.2\_en.doc | BugFix |
 | 9.0 | February 2025 | ID | EW\_TreeEvent\_v9.0\_en.doc | Compatibility PIVision 2024 and introduced new widget style |
+| 8.2  | January 2024 | MDC | EW\_TreeEvent\_v8.2\_en.doc | BugFix |
+| 8.1  | December 2023 | MDC | EW\_TreeEvent\_v8.1\_en.doc | BugFix |
+| 8.0 | August 2023 | MM | EW\_TreeEvent\_v8.0\_en.doc | Compatibility PIVision 2023 |
+| 7.0  | August 2022 | AM | EW\_TreeEvent\_v7.0\_en.doc | Compatibility PIVision 2022 |
+| 6.0  | October 2021 | MDC | EW\_TreeEvent\_v6.0\_en.doc | Compatibility PIVision 2021 |
+| 4.0 | October 2020 | OS | EW\_TreeEvent\_v4.0\_en.doc | Compatibility PIVision 2020 |
+| 2.5 | August 2020 | MDV | EW\_TreeEvent\_v2.5\_en.doc | Revision of documentation Bug Fixes |
+| 2.5 | August 2020 | PC | EW\_TreeEvent\_v2.5.doc | Bug Fixes |
+| 2.4  | Novembre 2019 | PC | EW\_TreeEvent\_v2.4.doc | Bug Fixes |
+| 2.3  | June 2019 | PC | EW\_TreeEvent\_v2.3.doc | Change of the icon element path; Highlight the selected element; Performances increased; Library use EWAPIService; |
+| 2.1  | January 2018 | PC | EW\_TreeEvent\_v2.1.doc | Review and research functionality add |
+| 2.0  | December 2017 | GT | EW\_TreeEvent\_v2.0.doc | Widget configuration restyling Installation procedure modification |
+| 2.0\*  | March 2019 | RR | EW\_TreeEvent\_v2.0.doc | Review \* Review of the modified N. in order to align it with the version number of the Widget |
+| 1.0 | September 2017 | GT  | EW\_TreeEvent\_v1.0.doc | First review |
 
 **Document References**
 

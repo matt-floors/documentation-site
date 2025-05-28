@@ -13,37 +13,36 @@ description: "The Multiple Manual Data Entry (MMDE) widget allows users to enter
 
 | Revision No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | January 2018 | GT | TQService\_MultipleManaualDataEntry\_v1.0 | First version |
-| 1.1 | February 2018 | GT | TQService\_MultipleManaualDataEntry\_v1.1 | User Management guide Improved |
-| 2.1 | March 2019 | GI | EW\_MultipleManualDataEntry\_v2.1.doc | Revision and manual restyling |
-| 2.3 | June 2019 | PC | EW\_MultipleManualDataEntry\_v2.3.doc | BugFix and even multi-language interface |
-| 2.4 | July 2019 | PC | EW\_MultipleManualDataEntry\_v2.4.doc | "+" Character support in the attribute name |
-| 2.5 | September 2019 | PC | EW\_MultipleManualDataEntry\_v2.5.doc | Reset button with default subattribute; Performance increase |
-| 2.6 | October 2019 | PC | EW\_MultipleManualDataEntry\_v2.6.doc | Synchronization with the display time; Ability to hide the current value; Ability to hide the name of the attribute; Expiry date support; |
-| 2.7 | November 2019 | PC | EW\_MultipleManualDataEntry\_v2.7.doc | BugFix |
-| 2.8 | December 2019 | PC | EW\_MultipleManualDataEntry\_v2.8.doc | BugFix |
-| 2.9 | December 2019 | PC | EW\_MultipleManualDataEntry\_v2.9.doc | BugFix |
-| 2.10 | January 2020 | PC | EW\_MultipleManualDataEntry\_v2.10.doc | Enlarged input data box; Collection support; Possibility to hide the data field in configuration; Button proportions based on the size of their text; Sensitivity to standard asset switching |
-| 2.11 | February 2020 | PC | EW\_MultipleManualDataEntry\_v2.11.doc | BugFix |
-| 2.12 | March 2020 | MDC | EW\_MultipleManualDataEntry\_v2.12.doc | Input text size |
-| 2.13 | March 2020 | MDC | EW\_MultipleManualDataEntry\_v2.13.doc | BugFix Collections |
-| 2.14 | April 2020 | MDC | EW\_MultipleManualDataEntry\_v2.14.doc | Change response images; Configurable response icon size; |
-| 2.15 | April 2020 | MDC | EW\_MultipleManualDataEntry\_v2.15.doc | Writing on stream and not on attribute |
-| 2.15.1 | August 2020 | OS | EW\_MultipleManualDataEntry\_v2.15.1\_en.doc | Revision and manual restyling |
-| 2.16 | October 2020 | OS | EW\_MultipleManualDataEntry\_v2.16\_en.doc | Possibility to choose the value of an attribute from AF Table |
-| 4.0 | October 2020 | OS | EW\_MultipleManualDataEntry\_v4.0\_en.doc | Compatibility PIVision 2020 |
-| 6.0 | October 2021 | MDC | EW\_MultipleManualDataEntry\_v6.0\_en.doc | Compatibility PIVision 2021 |
-| 7.0 | August 2022 | AM | EW\_MultipleManualDataEntry\_v7.0\_en.doc | Compatibility PIVision 2022 |
-| 7.1 | October 2022 | MDC | EW\_MultipleManualDataEntry\_v7.1\_en.doc | Asset management in configuration |
-| 7.2 | February 2023 | MDC | EW\_MultipleManualDataEntry\_v7.2\_en.doc | BugFix |
-| 7.3 | May 2023 | MDC | EW\_MultipleManualDataEntry\_v7.3\_en.doc | Possibility of not managing milliseconds |
-| 7.4 | June 2023 | MDC | EW\_MultipleManualDataEntry\_v7.4\_en.doc | UOM visualization |
-| 8.0 | August 2023 | FM | EW\_MultipleManualDataEntry\_8.0\_en.doc | Compatibility PIVision 2023 |
-| 8.1 | November 2023 | MDC | EW\_MultipleManualDataEntry\_8.1\_en.doc | Bugfix |
-| 8.2 | November 2023 | MDC | EW\_MultipleManualDataEntry\_8.2\_en.doc | Bugfix |
-| 8.3 | February 2024 | MDC | EW\_MultipleManualDataEntry\_8.3\_en.doc | Bugfix |
-| 8.4 | March 2024 | MDC | EW\_MultipleManualDataEntry\_8.4\_en.doc | Ability to hide "New value" column |
-| 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 9.0 | March 2025 | AL | EW_MultipleManualDataEntry_9.0_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.4 | March 2024 | MDC | EW_MultipleManualDataEntry_8.4_en.doc | Ability to hide "New value" column |
+| 8.3 | February 2024 | MDC | EW_MultipleManualDataEntry_8.3_en.doc | Bugfix |
+| 8.2 | November 2023 | MDC | EW_MultipleManualDataEntry_8.2_en.doc | Bugfix |
+| 8.1 | November 2023 | MDC | EW_MultipleManualDataEntry_8.1_en.doc | Bugfix |
+| 8.0 | August 2023 | FM | EW_MultipleManualDataEntry_8.0_en.doc | Compatibility PIVision 2023 |
+| 7.4 | June 2023 | MDC | EW_MultipleManualDataEntry_7.4_en.doc | UOM visualization |
+| 7.3 | May 2023 | MDC | EW_MultipleManualDataEntry_7.3_en.doc | Possibility of not managing milliseconds |
+| 7.2 | February 2023 | MDC | EW_MultipleManualDataEntry_7.2_en.doc | BugFix |
+| 7.1 | October 2022 | MDC | EW_MultipleManualDataEntry_7.1_en.doc | Asset management in configuration |
+| 7.0 | August 2022 | AM | EW_MultipleManualDataEntry_v7.0_en.doc | Compatibility PIVision 2022 |
+| 6.0 | October 2021 | MDC | EW_MultipleManualDataEntry_v6.0_en.doc | Compatibility PIVision 2021 |
+| 4.0 | October 2020 | OS | EW_MultipleManualDataEntry_v4.0_en.doc | Compatibility PIVision 2020 |
+| 2.16 | October 2020 | OS | EW_MultipleManualDataEntry_v2.16_en.doc | Possibility to choose the value of an attribute from AF Table |
+| 2.15.1 | August 2020 | OS | EW_MultipleManualDataEntry_v2.15.1_en.doc | Revision and manual restyling |
+| 2.15 | April 2020 | MDC | EW_MultipleManualDataEntry_v2.15.doc | Writing on stream and not on attribute |
+| 2.14 | April 2020 | MDC | EW_MultipleManualDataEntry_v2.14.doc | Change response images; Configurable response icon size; |
+| 2.13 | March 2020 | MDC | EW_MultipleManualDataEntry_v2.13.doc | BugFix Collections |
+| 2.12 | March 2020 | MDC | EW_MultipleManualDataEntry_v2.12.doc | Input text size |
+| 2.11 | February 2020 | PC | EW_MultipleManualDataEntry_v2.11.doc | BugFix |
+| 2.10 | January 2020 | PC | EW_MultipleManualDataEntry_v2.10.doc | Enlarged input data box; Collection support; Possibility to hide the data field in configuration; Button proportions based on the size of their text; Sensitivity to standard asset switching |
+| 2.9 | December 2019 | PC | EW_MultipleManualDataEntry_v2.9.doc | BugFix |
+| 2.8 | December 2019 | PC | EW_MultipleManualDataEntry_v2.8.doc | BugFix |
+| 2.7 | November 2019 | PC | EW_MultipleManualDataEntry_v2.7.doc | BugFix |
+| 2.6 | October 2019 | PC | EW_MultipleManualDataEntry_v2.6.doc | Synchronization with the display time; Ability to hide the current value; Ability to hide the name of the attribute; Expiry date support; |
+| 2.5 | September 2019 | PC | EW_MultipleManualDataEntry_v2.5.doc | Reset button with default subattribute; Performance increase |
+| 2.4 | July 2019 | PC | EW_MultipleManualDataEntry_v2.4.doc | "+" Character support in the attribute name |
+| 2.3 | June 2019 | PC | EW_MultipleManualDataEntry_v2.3.doc | BugFix and even multi-language interface |
+| 2.1 | March 2019 | GI | EW_MultipleManualDataEntry_v2.1.doc | Revision and manual restyling |
+| 1.1 | February 2018 | GT | TQService_MultipleManaualDataEntry_v1.1 | User Management guide Improved |
 
 **Document References**
 

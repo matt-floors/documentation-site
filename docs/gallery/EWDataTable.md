@@ -13,30 +13,30 @@ description: "The EW Data Table widget displays sampled data in PI Vision, simil
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | September 2017 | GT | TQS\_DataTable\_v1.0 | First version documentation |
-| 2.0 | November 2017 | GT | TQS\_DataTable\_v2.0 | Restyle widget configuration; Change to the installation procedure |
-| 2.0.1 | January 2018 | PC | TQS\_DataTable\_v2.0.1 | Review and add some configuration parameters |
-| 2.1 | March 2018 | GT | TQS\_DataTable\_v2.1 | Modification of the installation procedure following the modification of the libraries used to download the data in Excel format |
-| 2.1 | March 2019 | GI | EW\_DataTable\_v2.1 | Restyle and revision of documentation |
-| 2.2 | May 2019 | PC | EW\_DataTable\_v2.2 | Support to &, \# and \+ in element name |
-| 2.3 | December 2019 | PC | EW\_DataTable\_v2.3 | Support to data expiration |
-| 2.3.1 | August 2020 | MDV | EW\_DataTable\_v2.3 | Revision of documentation |
-| 4.0 | October 2020 | OS | EW\_DataTable\_v4.0 | Compatibility PI Vision 2020 |
-| 5.0 | March 2021 | MDC | EW\_DataTable\_v5.0 | New graphic release and possibility to save a different time range |
-| 5.1 | April 2021 | MDC | EW\_DataTable\_v5.1 | BugFix |
-| 5.2 | July 2021 | MDC | EW\_DataTable\_v5.2 | Special characters management |
-| 6.0 | October 2021 | MDC | EW\_DataTable\_v6.0 | Compatibility PI Vision 2021 |
-| 6.1 | November 2021 | CC | EW\_DataTable\_v6.1 | New features |
-| 6.2 | March 2022 | MDC | EW\_DataTable\_v6.2 | Introduction of "Simple" and "Advanced" modes |
-| 6.3 | March 2022 | MDC | EW\_DataTable\_v6.3 | BugFix |
-| 6.4 | April 2022 | MDC | EW\_DataTable\_v6.4 | WebAPI management on a different server |
-| 6.5 | June 2022 | MDC | EW\_DataTable\_v6.5 | Label management improvement |
-| 7.0 | August 2022 | AM | EW\_DataTable\_v7.0 | Compatibility PI Vision 2022 |
-| 7.1 | October 2022 | MDC | EW\_DataTable\_v7.1 | English language default |
-| 7.2 | March 2023 | MDC | EW\_DataTable\_v7.2 | Added 1 month interval |
-| 8.0 | August 2023 | FM | EW\_DataTable\_v8.0 | Compatibility PI Vision 2023 |
-| 8.1 | August 2023 | MDC | EW\_DataTable\_v8.1 | BugFix |
 | 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.1 | August 2023 | MDC | EW\_DataTable\_v8.1 | BugFix |
+| 8.0 | August 2023 | FM | EW\_DataTable\_v8.0 | Compatibility PI Vision 2023 |
+| 7.2 | March 2023 | MDC | EW\_DataTable\_v7.2 | Added 1 month interval |
+| 7.1 | October 2022 | MDC | EW\_DataTable\_v7.1 | English language default |
+| 7.0 | August 2022 | AM | EW\_DataTable\_v7.0 | Compatibility PI Vision 2022 |
+| 6.5 | June 2022 | MDC | EW\_DataTable\_v6.5 | Label management improvement |
+| 6.4 | April 2022 | MDC | EW\_DataTable\_v6.4 | WebAPI management on a different server |
+| 6.3 | March 2022 | MDC | EW\_DataTable\_v6.3 | BugFix |
+| 6.2 | March 2022 | MDC | EW\_DataTable\_v6.2 | Introduction of "Simple" and "Advanced" modes |
+| 6.1 | November 2021 | CC | EW\_DataTable\_v6.1 | New features |
+| 6.0 | October 2021 | MDC | EW\_DataTable\_v6.0 | Compatibility PI Vision 2021 |
+| 5.2 | July 2021 | MDC | EW\_DataTable\_v5.2 | Special characters management |
+| 5.1 | April 2021 | MDC | EW\_DataTable\_v5.1 | BugFix |
+| 5.0 | March 2021 | MDC | EW\_DataTable\_v5.0 | New graphic release and possibility to save a different time range |
+| 4.0 | October 2020 | OS | EW\_DataTable\_v4.0 | Compatibility PI Vision 2020 |
+| 2.3.1 | August 2020 | MDV | EW\_DataTable\_v2.3 | Revision of documentation |
+| 2.3 | December 2019 | PC | EW\_DataTable\_v2.3 | Support to data expiration |
+| 2.2 | May 2019 | PC | EW\_DataTable\_v2.2 | Support to &, \# and \+ in element name |
+| 2.1 | March 2019 | GI | EW\_DataTable\_v2.1 | Restyle and revision of documentation |
+| 2.1 | March 2018 | GT | TQS\_DataTable\_v2.1 | Modification of the installation procedure following the modification of the libraries used to download the data in Excel format |
+| 2.0.1 | January 2018 | PC | TQS\_DataTable\_v2.0.1 | Review and add some configuration parameters |
+| 2.0 | November 2017 | GT | TQS\_DataTable\_v2.0 | Restyle widget configuration; Change to the installation procedure |
+| 1.0 | September 2017 | GT | TQS\_DataTable\_v1.0 | First version documentation |
 
 **Document References**
 

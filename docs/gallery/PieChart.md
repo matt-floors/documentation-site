@@ -15,16 +15,16 @@ description: "PieChart widget for PI Vision allows the visualization of data in 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 4.0 | December 2020 | MDC | EW\_PieChart\_v.4.0\_en.docx | First release documentation and specifications |
-| 6.0 | October 2021 | MDC | EW\_PieChart\_v.6.0\_en.docx | Compatibility PIVision 2021 |
-| 6.1 | January 2022 | MDC | EW\_PieChart\_v.6.1\_en.docx | New feature to switch asset |
-| 7.0 | August 2022 | AM | EW\_PieChart\_v.7.0\_en.docx | Compatibility PIVision 2022 |
-| 7.1 | January 2023 | MDC | EW\_PieChart\_v.7.1\_en.docx | Added ability to convert the widget into a collection |
-| 8.0 | August 2023 | FM | EW\_PieChart\_v.8.0\_en.docx | Compatibility PIVision 2023 |
-| 8.1 | August 2023 | MDC | EW\_PieChart\_v.8.1\_en.docx | BugFix |
-| 8.2 | October 2023 | MDC | EW\_PieChart\_v.8.2\_en.docx | BugFix |
-| 8.3 | January 2024 | MDC | EW\_PieChart\_v.8.3\_en.docx | BugFix |
-| 8.4 | February 2024 | MDC | EW\_PieChart\_v.8.4\_en.docx | BugFix |
+| 8.4 | February 2024 | MDC | EW_PieChart_v.8.4_en.docx | BugFix |
+| 8.3 | January 2024 | MDC | EW_PieChart_v.8.3_en.docx | BugFix |
+| 8.2 | October 2023 | MDC | EW_PieChart_v.8.2_en.docx | BugFix |
+| 8.1 | August 2023 | MDC | EW_PieChart_v.8.1_en.docx | BugFix |
+| 8.0 | August 2023 | FM | EW_PieChart_v.8.0_en.docx | Compatibility PIVision 2023 |
+| 7.1 | January 2023 | MDC | EW_PieChart_v.7.1_en.docx | Added ability to convert the widget into a collection |
+| 7.0 | August 2022 | AM | EW_PieChart_v.7.0_en.docx | Compatibility PIVision 2022 |
+| 6.1 | January 2022 | MDC | EW_PieChart_v.6.1_en.docx | New feature to switch asset |
+| 6.0 | October 2021 | MDC | EW_PieChart_v.6.0_en.docx | Compatibility PIVision 2021 |
+| 4.0 | December 2020 | MDC | EW_PieChart_v.4.0_en.docx | First release documentation and specifications |
 
 **Document References**
 

@@ -13,30 +13,30 @@ description: "The Link widget allows you to display a web page within a PI Visio
 
 | Revision | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | September 2017 | GT | TQS\_Link\_v.1.0\_en.docx | First version |
-| 2.0 | November 2017 | GT | TQS\_Link\_v.2.0\_en.docx | Widget configuration restyling; Installation procedure modification |
-| 2.0.1 | January 2018 | PC | TQS\_Link\_v.2.0.1\_en.docx | Review |
-| 2.1 | October 2018 | GT | EW\_Link\_v.7.0\_en.doc | Documentation restyling |
-| 2.1 | March 2019 | GI | EW\_Link\_v2.1\_en.doc | Review |
-| 2.2 | November 2019 | PC | EW\_Link\_v2.2\_en.doc | Expiration date |
-| 2.3 | November 2019 | PC | EW\_Link\_v2.3\_en.doc | BugFix |
-| 2.4 | January 2020 | PC | EW\_Link\_v2.4\_en.doc | BugFix |
-| 2.5 | January 2020 | PC | EW\_Link\_v2.5\_en.doc | BugFix |
-| 2.5.1 | August 2020 | VS | EW\_Link\_v2.5.1\_en.doc | Review |
-| 4.0 | October 2020 | OS | EW\_Link\_v4.0\_en.doc | Compatibility with PI Vision 2020 |
-| 4.1 | November 2020 | MDC | EW\_Link\_v4.1\_en.doc | BugFix |
-| 4.2 | December 2020 | MDC | EW\_Link\_v4.2\_en.doc | BugFix |
-| 4.3 | January 2021 | MDC | EW\_Link\_v4.3\_en.doc | BugFix and change settings button |
-| 4.4 | August 2021 | MDC | EW\_Link\_v4.4\_en.doc | Multiple I-frame management |
-| 4.5 | August 2021 | MDC | EW\_Link\_v4.5\_en.doc | BugFix |
-| 4.6 | September 2021 | MDC | EW\_Link\_v4.6\_en.doc | BugFix |
-| 4.7 | October 2021 | MDC | EW\_Link\_v4.7\_en.doc | Iframe background color |
-| 6.0 | October 2021 | MDC | EW\_Link\_v6.0\_en.doc | Compatibility with PI Vision 2021 |
-| 6.1 | November 2021 | MDC | EW\_Link\_v6.1\_en.doc | BugFix |
-| 7.0 | August 2022 | AM | EW\_Link\_v7.0\_en.doc | Compatibility with PI Vision 2022 |
-| 7.1 | February 2023 | MDC | EW\_Link\_v7.1\_en.doc | Asset management in configuration |
-| 8.0 | August 2023 | DC | EW\_Link\_v8.0\_en.doc | Compatibility with PI Vision 2023 |
-| 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 9.0 | March 2025 | AL | EW_Link_v9.0_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.0 | August 2023 | DC | EW_Link_v8.0_en.doc | Compatibility with PI Vision 2023 |
+| 7.1 | February 2023 | MDC | EW_Link_v7.1_en.doc | Asset management in configuration |
+| 7.0 | August 2022 | AM | EW_Link_v7.0_en.doc | Compatibility with PI Vision 2022 |
+| 6.1 | November 2021 | MDC | EW_Link_v6.1_en.doc | BugFix |
+| 6.0 | October 2021 | MDC | EW_Link_v6.0_en.doc | Compatibility with PI Vision 2021 |
+| 4.7 | October 2021 | MDC | EW_Link_v4.7_en.doc | Iframe background color |
+| 4.6 | September 2021 | MDC | EW_Link_v4.6_en.doc | BugFix |
+| 4.5 | August 2021 | MDC | EW_Link_v4.5_en.doc | BugFix |
+| 4.4 | August 2021 | MDC | EW_Link_v4.4_en.doc | Multiple I-frame management |
+| 4.3 | January 2021 | MDC | EW_Link_v4.3_en.doc | BugFix and change settings button |
+| 4.2 | December 2020 | MDC | EW_Link_v4.2_en.doc | BugFix |
+| 4.1 | November 2020 | MDC | EW_Link_v4.1_en.doc | BugFix |
+| 4.0 | October 2020 | OS | EW_Link_v4.0_en.doc | Compatibility with PI Vision 2020 |
+| 2.5.1 | August 2020 | VS | EW_Link_v2.5.1_en.doc | Review |
+| 2.5 | January 2020 | PC | EW_Link_v2.5_en.doc | BugFix |
+| 2.4 | January 2020 | PC | EW_Link_v2.4_en.doc | BugFix |
+| 2.3 | November 2019 | PC | EW_Link_v2.3_en.doc | BugFix |
+| 2.2 | November 2019 | PC | EW_Link_v2.2_en.doc | Expiration date |
+| 2.1 | March 2019 | GI | EW_Link_v2.1_en.doc | Review |
+| 2.1 | October 2018 | GT | EW_Link_v.7.0_en.doc | Documentation restyling |
+| 2.0.1 | January 2018 | PC | TQS_Link_v.2.0.1_en.docx | Review |
+| 2.0 | November 2017 | GT | TQS_Link_v.2.0_en.docx | Widget configuration restyling; Installation procedure modification |
+| 1.0 | September 2017 | GT | TQS_Link_v.1.0_en.docx | First version |
 
 **Document References**
 

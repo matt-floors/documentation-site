@@ -13,23 +13,23 @@ description: "The AF Data Table widget allows you to build a table in PI Vision 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 4.0 | February 2021 | MDC | EW\_AFDataTable\_v4.0\_en | First Version |
-| 4.1 | March 2021 | MDC | EW\_AFDataTable\_v4.1\_en | Row color management and date format customization. |
-| 4.2 | March 2021 | MDC | EW\_AFDataTable\_v4.2\_en | Possibility to color only the cell. |
-| 4.3 | September 2021 | MDC | EW\_AFDataTable\_v4.3\_en | Possibility to use an attribute or tag to build the table. |
-| 4.4 | October 2021 | MDC | EW\_AFDataTable\_v4.4\_en | Multiple sorting; Save the sort in configuration. |
-| 6.0 | October 2021 | MDC | EW\_AFDataTable\_v6.0\_en | Compatibility PIVision 2021 |
-| 6.1 | March 2022 | MDC | EW\_AFDataTable\_v6.1\_en | Filter on the column with DateTime |
-| 7.0 | July 2022 | MDC | EW\_AFDataTable\_v7.0\_en | Compatibility PIVision 2022 |
-| 7.1 | December 2022 | MDC | EW\_AFDataTable\_v7.1\_en | BugFix |
-| 7.2 | January 2023 | MDC | EW\_AFDataTable\_v7.2\_en | Asset management in configuration |
-| 7.3 | February 2023 | MDC | EW\_AFDataTable\_v7.3\_en | BugFix |
-| 7.4 | March 2023 | MDC | EW\_AFDataTable\_v7.4\_en | Management of number of decimals to show |
-| 7.5 | May 2023 | MDC | EW\_AFDataTable\_v7.5\_en | New filter features |
-| 8.0 | August 2023 | AM | EW\_AFDataTable\_v8.0\_en | Compatibility PI Vision 2023 |
-| 8.1 | August 2023 | MDC | EW\_AFDataTable\_v8.1\_en | External piwebapi malfunction bugfix |
-| 8.2 | November 2023 | MDC | EW\_AFDataTable\_v8.2\_en | BugFix |
 | 9.0 | March 2025 | AL | EW\_AFDataTable\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.2 | November 2023 | MDC | EW\_AFDataTable\_v8.2\_en | BugFix |
+| 8.1 | August 2023 | MDC | EW\_AFDataTable\_v8.1\_en | External piwebapi malfunction bugfix |
+| 8.0 | August 2023 | AM | EW\_AFDataTable\_v8.0\_en | Compatibility PI Vision 2023 |
+| 7.5 | May 2023 | MDC | EW\_AFDataTable\_v7.5\_en | New filter features |
+| 7.4 | March 2023 | MDC | EW\_AFDataTable\_v7.4\_en | Management of number of decimals to show |
+| 7.3 | February 2023 | MDC | EW\_AFDataTable\_v7.3\_en | BugFix |
+| 7.2 | January 2023 | MDC | EW\_AFDataTable\_v7.2\_en | Asset management in configuration |
+| 7.1 | December 2022 | MDC | EW\_AFDataTable\_v7.1\_en | BugFix |
+| 7.0 | July 2022 | MDC | EW\_AFDataTable\_v7.0\_en | Compatibility PIVision 2022 |
+| 6.1 | March 2022 | MDC | EW\_AFDataTable\_v6.1\_en | Filter on the column with DateTime |
+| 6.0 | October 2021 | MDC | EW\_AFDataTable\_v6.0\_en | Compatibility PIVision 2021 |
+| 4.4 | October 2021 | MDC | EW\_AFDataTable\_v4.4\_en | Multiple sorting; Save the sort in configuration. |
+| 4.3 | September 2021 | MDC | EW\_AFDataTable\_v4.3\_en | Possibility to use an attribute or tag to build the table. |
+| 4.2 | March 2021 | MDC | EW\_AFDataTable\_v4.2\_en | Possibility to color only the cell. |
+| 4.1 | March 2021 | MDC | EW\_AFDataTable\_v4.1\_en | Row color management and date format customization. |
+| 4.0 | February 2021 | MDC | EW\_AFDataTable\_v4.0\_en | First Version |
 
 **Document References**
 

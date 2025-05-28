@@ -13,23 +13,23 @@ description: "EW Reference Plot XY widget allows you to realize a 2D graph that 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.3 | February 2019 | GI | EW\_ReferencePlotXY\_v1.3.doc | First review |
-| 1.5 | April 2019 | GI | EW\_ReferencePlotXY\_v1.5.doc | Update of the selecting attributes mode and bug fixes |
-| 1.10 | June 2019 | PC | EW\_ReferencePlotXY\_v1.5.doc | Last dot customizable in terms of size and colour; Data update when the time interval of the display is changed; Refresh interval in configuration settings; Tables also from attribute |
-| 1.11 | August 2019 | PC | EW\_ReferencePlotXY\_v1.11.doc | BugFix |
-| 1.11.1 | August 2020 | BA | EW\_ReferencePlotXY\_v1.11.1\_en.doc | Review |
-| 4.0 | October 2020 | OS | EW\_ReferencePlotXY\_v4.0\_en.doc | Compatibility PI Vision 2020 |
-| 6.0 | October 2021 | MDC | EW\_ReferencePlotXY\_v6.0\_en.doc | Compatibility PI Vision 2021 |
-| 7.0 | August 2022 | AM | EW\_ReferencePlotXY\_v7.0\_en.doc | Compatibility PI Vision 2022 |
-| 7.1 | September 2022 | MDC | EW\_ReferencePlotXY\_v7.1\_en.doc | Possibility to insert the gradient |
-| 7.2 | April 2023 | MDC | EW\_ReferencePlotXY\_v7.2\_en.doc | Added data retrieve method |
-| 7.3 | April 2023 | MDC | EW\_ReferencePlotXY\_v7.3\_en.doc | Added SVG margins |
-| 7.4 | May 2023 | MDC | EW\_ReferencePlotXY\_v7.4\_en.doc | Removed the limits to 0 for the axes and for the gradient |
-| 7.5 | June 2023 | MDC | EW\_ReferencePlotXY\_v7.5\_en.doc | BugFix |
-| 8.0 | August 2023 | FM | EW\_ReferencePlotXY\_v8.0\_en.doc | Compatibility PI Vision 2023 |
-| 8.1 | September 2023 | MDC | EW\_ReferencePlotXY\_v8.1\_en.doc | Filtering of non-numeric values and management of equal axes |
+| 9.0 | March 2025 | AL | EW\_ReferencePlotXY\_v9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
 | 8.2 | January 2024 | MDC | EW\_ReferencePlotXY\_v8.2\_en.doc | External button for equal axes |
-| 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.1 | September 2023 | MDC | EW\_ReferencePlotXY\_v8.1\_en.doc | Filtering of non-numeric values and management of equal axes |
+| 8.0 | August 2023 | FM | EW\_ReferencePlotXY\_v8.0\_en.doc | Compatibility PI Vision 2023 |
+| 7.5 | June 2023 | MDC | EW\_ReferencePlotXY\_v7.5\_en.doc | BugFix |
+| 7.4 | May 2023 | MDC | EW\_ReferencePlotXY\_v7.4\_en.doc | Removed the limits to 0 for the axes and for the gradient |
+| 7.3 | April 2023 | MDC | EW\_ReferencePlotXY\_v7.3\_en.doc | Added SVG margins |
+| 7.2 | April 2023 | MDC | EW\_ReferencePlotXY\_v7.2\_en.doc | Added data retrieve method |
+| 7.1 | September 2022 | MDC | EW\_ReferencePlotXY\_v7.1\_en.doc | Possibility to insert the gradient |
+| 7.0 | August 2022 | AM | EW\_ReferencePlotXY\_v7.0\_en.doc | Compatibility PI Vision 2022 |
+| 6.0 | October 2021 | MDC | EW\_ReferencePlotXY\_v6.0\_en.doc | Compatibility PI Vision 2021 |
+| 4.0 | October 2020 | OS | EW\_ReferencePlotXY\_v4.0\_en.doc | Compatibility PI Vision 2020 |
+| 1.11.1 | August 2020 | BA | EW\_ReferencePlotXY\_v1.11.1\_en.doc | Review |
+| 1.11 | August 2019 | PC | EW\_ReferencePlotXY\_v1.11.doc | BugFix |
+| 1.10 | June 2019 | PC | EW\_ReferencePlotXY\_v1.5.doc | Last dot customizable in terms of size and colour; Data update when the time interval of the display is changed; Refresh interval in configuration settings; Tables also from attribute |
+| 1.5 | April 2019 | GI | EW\_ReferencePlotXY\_v1.5.doc | Update of the selecting attributes mode and bug fixes |
+| 1.3 | February 2019 | GI | EW\_ReferencePlotXY\_v1.3.doc | First review |
 
 **Document References**
 

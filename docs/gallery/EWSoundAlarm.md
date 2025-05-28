@@ -13,16 +13,16 @@ description: "Sound Alarm widget allows you to play a sound alarm related to an 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 2.1 | January 2019 | GI | Ew\_SoundAlarm\_v1.0.doc | First review |
-| 2.2 | December 2019 | PC | Ew\_SoundAlarm\_v2.2.doc | PI Vision 2019 support |
-| 2.2.1 | August 2020 | VS | Ew\_SoundAlarm\_v2.2.1.doc | Review |
-| 4.0 | October 2020 | OS | Ew\_SoundAlarm\_v4.0.doc | Compatibility PI Vision 2020 |
-| 6.0 | October 2021 | MDC | Ew\_SoundAlarm\_v6.0.doc | Compatibility PI Vision 2021 |
-| 7.0 | August 2022 | AM | Ew\_SoundAlarm\_v7.0.doc | Compatibility PI Vision 2022 |
-| 7.1 | January 2023 | MDC | Ew\_SoundAlarm\_v7.1.doc | PIWebAPI management in a different server |
-| 7.2 | January 2023 | MDC | Ew\_SoundAlarm\_v7.2.doc | Asset management in configuration |
-| 8.0 | August 2023 | AM | EW\_SoundAlarm\_v8.0.doc | Compatibility PI Vision 2023 |
-| 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 9.0 | March 2025 | AL | EW_SoundAlarm_v9.0.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.0 | August 2023 | AM | EW_SoundAlarm_v8.0.doc | Compatibility PI Vision 2023 |
+| 7.2 | January 2023 | MDC | Ew_SoundAlarm_v7.2.doc | Asset management in configuration |
+| 7.1 | January 2023 | MDC | Ew_SoundAlarm_v7.1.doc | PIWebAPI management in a different server |
+| 7.0 | August 2022 | AM | Ew_SoundAlarm_v7.0.doc | Compatibility PI Vision 2022 |
+| 6.0 | October 2021 | MDC | Ew_SoundAlarm_v6.0.doc | Compatibility PI Vision 2021 |
+| 4.0 | October 2020 | OS | Ew_SoundAlarm_v4.0.doc | Compatibility PI Vision 2020 |
+| 2.2.1 | August 2020 | VS | Ew_SoundAlarm_v2.2.1.doc | Review |
+| 2.2 | December 2019 | PC | Ew_SoundAlarm_v2.2.doc | PI Vision 2019 support |
+| 2.1 | January 2019 | GI | Ew_SoundAlarm_v1.0.doc | First review |
 
 **Document References**
 

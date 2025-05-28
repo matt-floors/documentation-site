@@ -13,17 +13,17 @@ description: "The Image widget allows you to display images in a PI Vision displ
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | ----- | ----- | ----- | ----- | ----- |
-| 1.0 | September 2017 | GT | TQS\_Image\_v1.0 | First review |
-| 2.0 | November 2017 | GT | TQS\_Image\_v2.0 | Widget configuration restyling Installation procedure modification |
-| 2.0.1 | January 2018 | PC | TQS\_Image\_v2.0.1 | Review |
-| 2.0.2 | December 2018 | GT | EW\_Image\_2.0.2 | Restyling |
-| 2.0\* | March 2019 | GI | EW\_Image\_2.0 | Review   \* Review of the modified N. in order to align it with the version number of the Widget |
-| 2.2 | August 2020 | VS | EW\_Image\_2.2 | Review |
-| 4.0 | October 2020 | OS | EW\_Image\_4.0 | Compatibility PIVision 2020 |
-| 6.0 | October 2021 | MDC | EW\_Image\_6.0 | Compatibility PIVision 2021 |
-| 7.0 | August 2022 | AM | EW\_Image\_7.0 | Compatibility PIVision 2022 |
-| 8.0 | August 2023 | AM | EW\_Image\_8.0 | Compatibility PI Vision 2023 |
 | 9.0 | March 2025 | ID | EW\_Image\_9.0 | Compatibility PI Vision 2024 and introduced new widget style |
+| 8.0 | August 2023 | AM | EW\_Image\_8.0 | Compatibility PI Vision 2023 |
+| 7.0 | August 2022 | AM | EW\_Image\_7.0 | Compatibility PIVision 2022 |
+| 6.0 | October 2021 | MDC | EW\_Image\_6.0 | Compatibility PIVision 2021 |
+| 4.0 | October 2020 | OS | EW\_Image\_4.0 | Compatibility PIVision 2020 |
+| 2.2 | August 2020 | VS | EW\_Image\_2.2 | Review |
+| 2.0.2 | December 2018 | GT | EW\_Image\_2.0.2 | Restyling |
+| 2.0.1 | January 2018 | PC | TQS\_Image\_v2.0.1 | Review |
+| 2.0\* | March 2019 | GI | EW\_Image\_2.0 | Review   \* Review of the modified N. in order to align it with the version number of the Widget |
+| 2.0 | November 2017 | GT | TQS\_Image\_v2.0 | Widget configuration restyling Installation procedure modification |
+| 1.0 | September 2017 | GT | TQS\_Image\_v1.0 | First review |
 
 **Document References**
 

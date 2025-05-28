@@ -13,25 +13,25 @@ description: "The StackedChart widget for PI Vision allows the visualization of 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | ----- | ----- | ----- | ----- | ----- |
-| 1.0 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | First release documentation and specifications |
-| 1.1 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Introducing Zoom |
-| 1.2 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Handle null values |
-| 1.3 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Introducing interpolation |
-| 1.4 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | BugFix |
-| 1.5 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | French language support |
-| 1.8. | August 2020 | OS | EW\_StackedChart\_v.1.8\_en.docx | Restyle and modification |
-| 4.0 | October 2020 | OS | EW\_StackedChart\_v.4.0\_en.docx | Compatibility PIVision 2020 |
-| 4.1 | December 2020 | MDC | EW\_StackedChart\_v4.1\_en.doc | BugFix |
-| 4.2 | January 2021 | MDC | EW\_StackedChart\_v4.2\_en.doc | 1\) Possibility to modify: \- update interval \- size, position and number of decimals of the tooltip. 2\) Management of the opening of the ad hoc trend like the standard double click. 3\) Elements order from configuration. 4\) Management of the expiration date. 5\) Error handling in PIVision console for expiration date and wrong domain |
-| 4.3 | March 2021 | MDC | EW\_StackedChart\_v4.3\_en.doc | BugFix PIVision 2020 |
-| 4.4 | June 2021 | MDC | EW\_StackedChart\_v4.4\_en.doc | Special characters management |
-| 4.5 | July 2021 | MDC | EW\_StackedChart\_v4.5\_en.doc | BugFix |
-| 6.0 | October 2021 | MDC | EW\_StackedChart\_v6.0\_en.doc | Compatibility PIVision 2021 |
-| 7.0 | August 2022 | AM | EW\_StackedChart\_v7.0\_en.doc | Compatibility PIVision 2022 |
-| 7.1 | January 2023 | MDC | EW\_StackedChart\_v7.1\_en.doc | Added different webapi server management and asset management |
-| 8.0 | August 2023 | AM | EW\_StackedChart\_v8.0\_en.doc | Compatibility PI Vision 2023 |
-| 8.1 | September 2023 | MDC | EW\_StackedChart\_v8.1\_en.doc | Cursor label name changed |
 | 9.0 | March 2025 | ID | EW\_StackedChart\_v9.0\_en.doc | Compatibility PI Vision 2024 and introduced new widget style |
+| 8.1 | September 2023 | MDC | EW\_StackedChart\_v8.1\_en.doc | Cursor label name changed |
+| 8.0 | August 2023 | AM | EW\_StackedChart\_v8.0\_en.doc | Compatibility PI Vision 2023 |
+| 7.1 | January 2023 | MDC | EW\_StackedChart\_v7.1\_en.doc | Added different webapi server management and asset management |
+| 7.0 | August 2022 | AM | EW\_StackedChart\_v7.0\_en.doc | Compatibility PIVision 2022 |
+| 6.0 | October 2021 | MDC | EW\_StackedChart\_v6.0\_en.doc | Compatibility PIVision 2021 |
+| 4.5 | July 2021 | MDC | EW\_StackedChart\_v4.5\_en.doc | BugFix |
+| 4.4 | June 2021 | MDC | EW\_StackedChart\_v4.4\_en.doc | Special characters management |
+| 4.3 | March 2021 | MDC | EW\_StackedChart\_v4.3\_en.doc | BugFix PIVision 2020 |
+| 4.2 | January 2021 | MDC | EW\_StackedChart\_v4.2\_en.doc | 1\) Possibility to modify: \- update interval \- size, position and number of decimals of the tooltip. 2\) Management of the opening of the ad hoc trend like the standard double click. 3\) Elements order from configuration. 4\) Management of the expiration date. 5\) Error handling in PIVision console for expiration date and wrong domain |
+| 4.1 | December 2020 | MDC | EW\_StackedChart\_v4.1\_en.doc | BugFix |
+| 4.0 | October 2020 | OS | EW\_StackedChart\_v.4.0\_en.docx | Compatibility PIVision 2020 |
+| 1.8. | August 2020 | OS | EW\_StackedChart\_v.1.8\_en.docx | Restyle and modification |
+| 1.5 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | French language support |
+| 1.4 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | BugFix |
+| 1.3 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Introducing interpolation |
+| 1.2 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Handle null values |
+| 1.1 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | Introducing Zoom |
+| 1.0 | August 2019 | PC | EW\_StackedChart\_v.1.4\_en.docx | First release documentation and specifications |
 
 **Document References**
 

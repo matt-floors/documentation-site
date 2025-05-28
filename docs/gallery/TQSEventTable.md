@@ -13,29 +13,29 @@ description: "The EW Event Table widget displays, in tabular format within a PI 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | September 2017 | GT | TQS\_EventTable\_1.0\_en | First version documentation |
-| 2.0 | November 2017 | GT | TQS\_EventTable\_2.0\_en | Restyle widget configuration; Change to the installation procedure |
-| 2.0.1 | March 2018 | GT | TQS\_EventTable\_2.0.1\_en | Customization of visible columns |
-| 2.0.2 | December 2018 | GT | EW\_EventTable\_2.0.2\_en | Restyle and Modification |
-| 3.0 | February 2019 | RR | EW\_EventTable\_3.1\_en | Implementation |
-| 3.2 | March 2019 | GI | EW\_EventTable\_3.2\_en | Modification and description of new functions |
-| 3.3 | April 2019 | GI | EW\_EventTable\_3.3\_en | Bug Fixes |
-| 3.4 | June 2019 | PC | EW\_EventTable\_3.4\_en | Using EWAPIService library |
-| 3.5 | November 2019 | PC | EW\_EventTable\_3.5\_en | Support for expiration date |
-| 3.6 | November 2019 | PC | EW\_EventTable\_3.6\_en | Bug Fixes |
-| 3.7 | September 2020 | MDV | EW\_EventTable\_3.7\_en | Bug Fixes: Pencil icon fixed; arrow icon fixed; edit attribute value fixed; Revision of documentation |
-| 4.0 | October 2020 | OS | EW\_EventTable\_4.0\_en | Compatibility PI Vision 2020 |
-| 4.1 | January 2021 | MDC | EW\_EventTable\_4.1\_en | BugFix |
-| 4.2 | April 2021 | MDC | EW\_EventTable\_4.2\_en | Added "Edit time" function |
-| 6.0 | October 2021 | MDC | EW\_EventTable\_6.0\_en | Compatibility PI Vision 2021 |
-| 7.0 | August 2022 | AM | EW\_EventTable\_7.0\_en | Compatibility PI Vision 2022 |
-| 7.1 | September 2022 | CC | EW\_EventTable\_7.1\_en | Add possibility to change the header language of the table |
-| 8.0 | August 2023 | FP | EW\_EventTable\_8.0\_en | Compatibility PI Vision 2023 |
-| 8.1 | November 2023 | MDC | EW\_EventTable\_8.1\_en | Edit calls with external PIWebAPI |
-| 8.2 | January 2024 | MDC | EW\_EventTable\_8.2\_en | BugFix |
-| 8.3 | January 2024 | MDC | EW\_EventTable\_8.3\_en | BugFix |
-| 8.5 | August 2024 | GF | EW\_EventTable\_8.5\_en | Add possibility to Recapture Eventframe |
-| 9.0 | March 2025 | AL | EW\_MultipleManualDataEntry\_9.0\_en.doc | Compatibility with PIVision 2024 and new widget style introduced |
+| 9.0 | March 2025 | AL | EW_EventTable_9.0_en | Compatibility with PIVision 2024 and new widget style introduced |
+| 8.5 | August 2024 | GF | EW_EventTable_8.5_en | Add possibility to Recapture Eventframe |
+| 8.3 | January 2024 | MDC | EW_EventTable_8.3_en | BugFix |
+| 8.2 | January 2024 | MDC | EW_EventTable_8.2_en | BugFix |
+| 8.1 | November 2023 | MDC | EW_EventTable_8.1_en | Edit calls with external PIWebAPI |
+| 8.0 | August 2023 | FP | EW_EventTable_8.0_en | Compatibility PI Vision 2023 |
+| 7.1 | September 2022 | CC | EW_EventTable_7.1_en | Add possibility to change the header language of the table |
+| 7.0 | August 2022 | AM | EW_EventTable_7.0_en | Compatibility PI Vision 2022 |
+| 6.0 | October 2021 | MDC | EW_EventTable_6.0_en | Compatibility PI Vision 2021 |
+| 4.2 | April 2021 | MDC | EW_EventTable_4.2_en | Added "Edit time" function |
+| 4.1 | January 2021 | MDC | EW_EventTable_4.1_en | BugFix |
+| 4.0 | October 2020 | OS | EW_EventTable_4.0_en | Compatibility PI Vision 2020 |
+| 3.7 | September 2020 | MDV | EW_EventTable_3.7_en | Bug Fixes: Pencil icon fixed; arrow icon fixed; edit attribute value fixed; Revision of documentation |
+| 3.6 | November 2019 | PC | EW_EventTable_3.6_en | Bug Fixes |
+| 3.5 | November 2019 | PC | EW_EventTable_3.5_en | Support for expiration date |
+| 3.4 | June 2019 | PC | EW_EventTable_3.4_en | Using EWAPIService library |
+| 3.3 | April 2019 | GI | EW_EventTable_3.3_en | Bug Fixes |
+| 3.2 | March 2019 | GI | EW_EventTable_3.2_en | Modification and description of new functions |
+| 3.0 | February 2019 | RR | EW_EventTable_3.1_en | Implementation |
+| 2.0.2 | December 2018 | GT | EW_EventTable_2.0.2_en | Restyle and Modification |
+| 2.0.1 | March 2018 | GT | TQS_EventTable_2.0.1_en | Customization of visible columns |
+| 2.0 | November 2017 | GT | TQS_EventTable_2.0_en | Restyle widget configuration; Change to the installation procedure |
+| 1.0 | September 2017 | GT | TQS_EventTable_1.0_en | First version documentation |
 
 **Document References**
 

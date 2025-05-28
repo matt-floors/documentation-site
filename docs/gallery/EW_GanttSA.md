@@ -21,8 +21,8 @@ description: "The GanttSA widget allows you to display the Event Frames linked t
 | 6.0 | October 2021 | MDC | EW\_GanttSA\_6.0\_en.doc | Compatibility PIVision 2021 |
 | 4.0 | October 2020 | OS | EW\_GanttSA\_4.0\_en.doc | Compatibility PIVision 2020 |
 | 3.0.2 | December 2018 | GT | EW\_Gantt\_3.0.2\_en.doc | Restyle and modification |
-| 3.0  | January 2018 | PC  | TQS\_Gantt\_v.3.0 \_en.doc | Review and change information about the interaction with the Gantt widget |
 | 3.0.1 | March 2018 | GT | EW\_Gantt\_v.3.0.1 \_en.doc | Modification of the installation procedure following the modification of the libraries used to download the data in Excel format |
+| 3.0  | January 2018 | PC  | TQS\_Gantt\_v.3.0 \_en.doc | Review and change information about the interaction with the Gantt widget |
 | 2.6.1 | September 2020 | OS | EW\_GanttSA\_2.6.1\_en.doc | Restyle and modification |
 | 2.1 | March 2019 | GI | EW\_GanttSA\_2.1\_en.doc | Restyle and modification |
 | 2.0  | December 2017 | GT | TQS\_Gantt\_v.2.0 \_en.doc | Restyle widget configuration Change installation procedure |
