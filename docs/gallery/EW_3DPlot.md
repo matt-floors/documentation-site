@@ -13,17 +13,17 @@ description: "3Dplot widget allows to visualize, through the use of a three-dime
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---: | :---: | ----- | ----- | ----- |
-| 2.1 | March 2019 | GI   | EW\_3Dplot\_v2.1.doc | First review |
-| 2.2 | April 2020 | PC | EW\_3Dplot\_v2.2.doc | Bugfix |
-| 2.3 | July 2020 | PC | EW\_3Dplot\_v2.3.doc | Support to data expiration |
+| 9.0 | March 2025 | ID | EW\_3Dplot\_v9.0.doc | Compatibility PI Vision 2024 and introduced new widget style |
+| 8.0 | August 2023 | DC | EW\_3Dplot\_v8.0.doc | Compatibility PI Vision 2023 |
+| 7.1 | February 2023 | MDC | EW\_3Dplot\_v7.1.doc | Assets management |
+| 7.0 | August 2022 | AM | EW\_3Dplot\_v7.0.doc | Compatibility PIVision 2022 |
+| 6.0 | October 2021 | MDC | EW\_3Dplot\_v6.0.doc | Compatibility PIVision 2021 |
+| 4.2 | July 2021 | MDC | EW\_3Dplot\_v4.2.doc | Bugfix |
 | 4.0 | October 2020 | OS | EW\_3Dplot\_v4.0.doc | Compatibility PIVision 2020 |
 | 4.1 | May 2021 | MDC | EW\_3Dplot\_v4.1.doc | Functioning mode with PIWEBAPI |
-| 4.2 | July 2021 | MDC | EW\_3Dplot\_v4.2.doc | Bugfix |
-| 6.0 | October 2021 | MDC | EW\_3Dplot\_v6.0.doc | Compatibility PIVision 2021 |
-| 7.0 | August 2022 | AM | EW\_3Dplot\_v7.0.doc | Compatibility PIVision 2022 |
-| 7.1 | February 2023 | MDC | EW\_3Dplot\_v7.1.doc | Assets management |
-| 8.0 | August 2023 | DC | EW\_3Dplot\_v8.0.doc | Compatibility PI Vision 2023 |
-| 9.0 | March 2025 | ID | EW\_3Dplot\_v9.0.doc | Compatibility PI Vision 2024 and introduced new widget style |
+| 2.3 | July 2020 | PC | EW\_3Dplot\_v2.3.doc | Support to data expiration |
+| 2.2 | April 2020 | PC | EW\_3Dplot\_v2.2.doc | Bugfix |
+| 2.1 | March 2019 | GI   | EW\_3Dplot\_v2.1.doc | First review |
 
 **Document References**
 
