@@ -1,0 +1,8 @@
+{
+  "label": "Gallery",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "For the standard PI System product features it is also possible share a view with a colleague, if security and permission allow for the web page sharing. Information can be real-time data collected in the PI System, configuration parameters and asset meta-data, documentation (pdf, images, etc..) or contextualized links to resources on other systems (SAP, etc.) Several PI Widgets from e-matica are available and more will be developed. Have a PI Vision graphical integration need? Just ask e-matica and you'll be all set!"
+  }
+}

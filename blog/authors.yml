@@ -1,0 +1,11 @@
+ematica:
+  name: e-matica
+  title: Company
+  description: "e-matica is a company that specializes in software development and digital solutions."
+  url: https://e-matica.com
+  image_url: https://e-matica.com/wp-content/uploads/2024/02/cropped-ematica_favicon-192x192.png
+  page: true
+  socials:
+    x: e-matica
+
+
