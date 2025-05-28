@@ -13,20 +13,20 @@ description: "The GanttSA widget allows you to display the Event Frames linked t
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 1.0 | September 2017 | GT | TQS\_Gantt\_v.1.0\_en.doc | First version of the document |
-| 2.0  | December 2017 | GT | TQS\_Gantt\_v.2.0 \_en.doc | Restyle widget configuration Change installation procedure |
+| 9.0 | February 2025 | ID | EW\_GanttSA\_9.0\_en.doc | Compatibility PIVision 2024 and new widget style introduced |
+| 8.0 | August 2023 | FM | EW\_GanttSA\_8.0\_en.doc | Compatibility PIVision 2023 |
+| 7.2 | March 2023 | AR | EW\_GanttSA\_7.2\_en.doc | Bug fix for legend color state (now it is not necessary to have one ) |
+| 7.1 | February 2023 | AR | EW\_GanttSA\_7.1\_en.doc | BugFix |
+| 7.0 | August 2022 | AM | EW\_GanttSA\_7.0\_en.doc | Compatibility PIVision 2022 |
+| 6.0 | October 2021 | MDC | EW\_GanttSA\_6.0\_en.doc | Compatibility PIVision 2021 |
+| 4.0 | October 2020 | OS | EW\_GanttSA\_4.0\_en.doc | Compatibility PIVision 2020 |
+| 3.0.2 | December 2018 | GT | EW\_Gantt\_3.0.2\_en.doc | Restyle and modification |
 | 3.0  | January 2018 | PC  | TQS\_Gantt\_v.3.0 \_en.doc | Review and change information about the interaction with the Gantt widget |
 | 3.0.1 | March 2018 | GT | EW\_Gantt\_v.3.0.1 \_en.doc | Modification of the installation procedure following the modification of the libraries used to download the data in Excel format |
-| 3.0.2 | December 2018 | GT | EW\_Gantt\_3.0.2\_en.doc | Restyle and modification |
-| 2.1 | March 2019 | GI | EW\_GanttSA\_2.1\_en.doc | Restyle and modification |
 | 2.6.1 | September 2020 | OS | EW\_GanttSA\_2.6.1\_en.doc | Restyle and modification |
-| 4.0 | October 2020 | OS | EW\_GanttSA\_4.0\_en.doc | Compatibility PIVision 2020 |
-| 6.0 | October 2021 | MDC | EW\_GanttSA\_6.0\_en.doc | Compatibility PIVision 2021 |
-| 7.0 | August 2022 | AM | EW\_GanttSA\_7.0\_en.doc | Compatibility PIVision 2022 |
-| 7.1 | February 2023 | AR | EW\_GanttSA\_7.1\_en.doc | BugFix |
-| 7.2 | March 2023 | AR | EW\_GanttSA\_7.2\_en.doc | Bug fix for legend color state (now it is not necessary to have one ) |
-| 8.0 | August 2023 | FM | EW\_GanttSA\_8.0\_en.doc | Compatibility PIVision 2023 |
-| 9.0 | February 2025 | ID | EW\_GanttSA\_9.0\_en.doc | Compatibility PIVision 2024 and new widget style introduced |
+| 2.1 | March 2019 | GI | EW\_GanttSA\_2.1\_en.doc | Restyle and modification |
+| 2.0  | December 2017 | GT | TQS\_Gantt\_v.2.0 \_en.doc | Restyle widget configuration Change installation procedure |
+| 1.0 | September 2017 | GT | TQS\_Gantt\_v.1.0\_en.doc | First version of the document |
 
 **Document Reference**
 
