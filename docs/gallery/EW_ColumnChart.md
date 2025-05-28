@@ -13,27 +13,27 @@ description: "The PI Vision Column Chart widget allows the visualization of the 
 
 | Revision N. | Date | Author | Document ID | Description of  changes |
 | ----- | ----- | ----- | ----- | ----- |
-| 1.0 | September 2017 | GT | TQS\_ColumnChart\_v.1.0.docx | First review |
-| 1.1 | January 2018 | PC | TQS\_ColumnChart\_v.1.1.docx | Review and update of some configuration parameters |
-| 1.1.1 | February 2018 | GT | TQS\_ColumnChart\_v.1.1.1.docx | Added management of Bad Statuses |
-| 1.2 | October 2018 | GT | EW\_ColumnChart\_v.1.2.doc | Document restyle |
-| 2.0 | March 2019 | GI | EW \_ColumnChart\_v2.0.doc | Manual Revision |
-| 2.0.1 | August 2020 | VS | EW\_ColumnChart\_v2.0.1­\_en.doc | Review |
-| 4.0 | October 2020 | OS | EW\_ColumnChart\_v4.0­\_en.doc | Compatibility PIVision 2020 |
-| 4.1 | November 2020 | MDC | EW\_ColumnChart\_v4.1­\_en.doc | Bug Fix |
-| 4.2 | November 2020 | MDC | EW\_ColumnChart\_v4.2­\_en.doc | License support |
-| 6.0 | October 2021 | MDC | EW\_ColumnChart\_v6.0­\_en.doc | Compatibility PIVision 2021 |
-| 6.1 | April 2022 | MDC | EW\_ColumnChart\_v6.1\_en.doc | WebAPI management on a different server |
-| 7.0 | August 2022 | AM | EW\_ColumnChart\_v7.0\_en.doc | Compatibility PIVision 2022 |
-| 7.1 | September 2022 | MDC | EW\_ColumnChart\_v7.1\_en.doc | English language by default |
-| 7.2 | January 2023 | MDC | EW\_ColumnChart\_v7.2\_en.doc | BugFix |
-| 7.3 | January 2023 | MDC | EW\_ColumnChart\_v7.3\_en.doc | Assets management |
-| 7.4 | January 2023 | MDC | EW\_ColumnChart\_v7.4\_en.doc | BugFix |
-| 8.0 | August 2023 | MDC | EW\_ColumnChart\_v8.0\_en.doc | Compatibility PIVision 2023 |
-| 8.1 | August 2024 | MDC | EW\_ColumnChart\_v8.1\_en.doc | BugFix |
-| 8.2 | September 2024 | MDC | EW\_ColumnChart\_v8.2\_en.doc | New attribute comparison mode |
-| 8.5 | February 2025 | MDC | EW\_ColumnChart\_v8.5\_en.doc | Legend style management |
 | 9.0 | March 2025 | ID | EW\_ColumnChart\_v9.0\_en.doc | Compatibility PI Vision 2024 and introduced new widget style |
+| 8.5 | February 2025 | MDC | EW\_ColumnChart\_v8.5\_en.doc | Legend style management |
+| 8.2 | September 2024 | MDC | EW\_ColumnChart\_v8.2\_en.doc | New attribute comparison mode |
+| 8.1 | August 2024 | MDC | EW\_ColumnChart\_v8.1\_en.doc | BugFix |
+| 8.0 | August 2023 | MDC | EW\_ColumnChart\_v8.0\_en.doc | Compatibility PIVision 2023 |
+| 7.4 | January 2023 | MDC | EW\_ColumnChart\_v7.4\_en.doc | BugFix |
+| 7.3 | January 2023 | MDC | EW\_ColumnChart\_v7.3\_en.doc | Assets management |
+| 7.2 | January 2023 | MDC | EW\_ColumnChart\_v7.2\_en.doc | BugFix |
+| 7.1 | September 2022 | MDC | EW\_ColumnChart\_v7.1\_en.doc | English language by default |
+| 7.0 | August 2022 | AM | EW\_ColumnChart\_v7.0\_en.doc | Compatibility PIVision 2022 |
+| 6.1 | April 2022 | MDC | EW\_ColumnChart\_v6.1\_en.doc | WebAPI management on a different server |
+| 6.0 | October 2021 | MDC | EW\_ColumnChart\_v6.0­\_en.doc | Compatibility PIVision 2021 |
+| 4.2 | November 2020 | MDC | EW\_ColumnChart\_v4.2­\_en.doc | License support |
+| 4.1 | November 2020 | MDC | EW\_ColumnChart\_v4.1­\_en.doc | Bug Fix |
+| 4.0 | October 2020 | OS | EW\_ColumnChart\_v4.0­\_en.doc | Compatibility PIVision 2020 |
+| 2.0.1 | August 2020 | VS | EW\_ColumnChart\_v2.0.1­\_en.doc | Review |
+| 2.0 | March 2019 | GI | EW \_ColumnChart\_v2.0.doc | Manual Revision |
+| 1.2 | October 2018 | GT | EW\_ColumnChart\_v.1.2.doc | Document restyle |
+| 1.1.1 | February 2018 | GT | TQS\_ColumnChart\_v.1.1.1.docx | Added management of Bad Statuses |
+| 1.1 | January 2018 | PC | TQS\_ColumnChart\_v.1.1.docx | Review and update of some configuration parameters |
+| 1.0 | September 2017 | GT | TQS\_ColumnChart\_v.1.0.docx | First review |
 
 **Document References**
 
