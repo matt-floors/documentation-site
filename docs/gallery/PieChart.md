@@ -15,6 +15,7 @@ description: "PieChart widget for PI Vision allows the visualization of data in 
 
 | Revision N. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
+| 9.0 | March 2025 | MDC | EW_PieChart_v.9.0.docx | Compatibility with PIVision 2024 and new widget style introduced |
 | 8.4 | February 2024 | MDC | EW_PieChart_v.8.4_en.docx | BugFix |
 | 8.3 | January 2024 | MDC | EW_PieChart_v.8.3_en.docx | BugFix |
 | 8.2 | October 2023 | MDC | EW_PieChart_v.8.2_en.docx | BugFix |

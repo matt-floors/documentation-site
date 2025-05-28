@@ -15,8 +15,6 @@ description: "The EW Tree Link widget displays the AF hierarchical tree and allo
 
 | Revision | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-Certainly, here is the reversed list.
-
 | 9.0 | March 2025 | AL | EW_Treelink_v9.0 | Compatibility with PIVision 2024 and new widget style introduced |
 | 8.2 | June 2024 | NM | EW_Treelink_v8.2 | Added “time zone” configuration to choose a specific UTC |
 | 8.1 | April 2024 | MDC | EW_Treelink_v8.1 | BugFix; Search Function |
