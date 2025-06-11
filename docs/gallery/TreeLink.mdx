@@ -9,9 +9,8 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 # \- PI Vision Widget \-
 
-## 
 
-**Revision History**
+#####  Revision History
 
 | Revision | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
@@ -49,46 +48,13 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 | 2.0 | November 2017 | GT | EW_Treelink_v2.0.doc | Widget configuration restyling; Installation procedure modification |
 | 1.0 | September 2017 | GT | EW_TreeLink_v1.0.doc | First review |
 
-**Document References**
+##### Document References
 
 | Document | Description |
 | :---- | :---- |
 | PI Vision Installation and Administration Guide | PI Vision™ user manual from OSIsoft |
 
-**Table of Contents**
-
-[INTRODUCTION	7](#introduction)
-[DEFINITIONS, ACRONYMS AND ABBREVIATIONS	7](#definitions,-acronyms-and-abbreviations)
-[OPERATING PRINCIPLES AND USE	7](#operating-principles-and-use)
-[3.1 Functionality and Use	8](#functionality-and-use)
-[3.2 Customization and Configuration	8](#3.2-customization-and-configuration)
-[Language	8](#language)
-[Title	8](#title)
-[WebAPI	8](#webapi)
-[Root Table	9](#root-table)
-[Connection Types	9](#connection-types)
-[Settings	9](#settings)
-[Text Size	10](#text-size)
-[Icon Attribute	10](#icon-attribute)
-[URL Attribute Name	10](#url-attribute-name)
-[DB URL	10](#db-url)
-[Open Link Mode	11](#open-link-mode)
-[Template Jump Start/End	11](#template-jump-start/end)
-[Link Context	11](#link-context)
-[Filters	11](#filters)
-[Template Filters	11](#template-filters)
-[Set Time Zone	11](#set-time-zone)
-[Display of the Icon and List of UTCs	12](#display-of-the-icon-and-list-of-utcs)
-[Assets	12](#assets)
-[Colors	12](#colors)
-[Contacts	13](#contacts)
-[INSTALLATION	13](#installation)
-[4.1 Requirements	13](#4.1-requirements)
-[4.2 Installation Procedure	13](#4.2-installation-procedure)
-[4.3 Additional Notes	14](#4.3-additional-notes)
-[NOTES AND REFERENCES	15](#notes-and-references)
-
-## INTRODUCTION \{#introduction}
+## INTRODUCTION 
 
 The EW Tree Link widget displays the AF hierarchical tree and allows navigation in PI Vision.  
 Moreover, it enables matching a URL with an element to open the corresponding link.
@@ -100,7 +66,7 @@ Configuration in PI Vision is intuitive, based on a simple drag-and-drop of the 
 
 ---
 
-## DEFINITIONS, ACRONYMS AND ABBREVIATIONS \{#definitions,-acronyms-and-abbreviations}
+## DEFINITIONS, ACRONYMS AND ABBREVIATIONS 
 
 | Term | Definition |
 | :---- | :---- |
@@ -108,7 +74,7 @@ Configuration in PI Vision is intuitive, based on a simple drag-and-drop of the 
 
 ---
 
-## OPERATING PRINCIPLES AND USE \{#operating-principles-and-use}
+## OPERATING PRINCIPLES AND USE 
 
 To insert the EW Tree Link, first select the control icon, navigate to the desired asset, and drag it into the display area.
 
@@ -124,7 +90,7 @@ By selecting the contextual menu, you can access the widget configuration box.
 ![][image2]  
 **Figure 3: Contextual Menu**
 
-### Functionality and Use \{#functionality-and-use}
+### Functionality and Use 
 
 Once the display is added and configured, the tree view becomes visible.  
 The tree highlights the AF element type using various symbols.
@@ -137,33 +103,33 @@ New functionalities include:
 - Hide/show the tree view using a small left-triangle button.  
 - Open the web page corresponding to a configured URL by pressing `<CTRL>` when the link is selected.
 
-### 3.2 Customization and Configuration \{#3.2-customization-and-configuration}
+### 3.2 Customization and Configuration 
 
 The widget configuration allows you to change the appearance regarding colors, text size, and language.  
 Some parameters are automatically visible, while others require saving the display and reloading it.
 
 **Figure 4: Refresh page reminder**
 
-#### Language \{#language}
+#### Language 
 
 In the International section, you can choose the language for labels and configuration parameters.
 
 ![][image3]  
 **Figure 5: Language selection**
 
-#### Title \{#title}
+#### Title 
 
 You can modify the widget title by specifying a string in the Title section.
 
 **Figure 6: Title customization**
 
-#### WebAPI \{#webapi}
+#### WebAPI 
 
 In the Server Web API section, set the machine name for the web API. If it coincides with the web server, leave it blank.
 
 **Figure 7: Web API server option**
 
-#### Root Table \{#root-table}
+#### Root Table 
 
 An AF Table can be set to manage the tree root dynamically based on the user.
 
@@ -175,7 +141,7 @@ Below is an example of an AF table:
 ![][image5]  
 **Figure 9: AF Table for dynamic Root management**
 
-#### Connection Types \{#connection-types}
+#### Connection Types 
 
 The tree view root (set during element insertion) can be modified by choosing between "Database" and "Element". Additional configurations include:
 
@@ -190,7 +156,7 @@ For connection type "Element", the **Fixed tree** option allows defining a fixed
 ![][image6]  
 **Figure 10: Root selection**
 
-#### Settings \{#settings}
+#### Settings 
 
 Settings allow you to:
 
@@ -204,14 +170,14 @@ Settings allow you to:
 ![][image7]  
 **Figure 11: Other settings**
 
-#### Text Size \{#text-size}
+#### Text Size 
 
 Customize text sizes (for title, header, table values) by selecting a pixel value from a combo box.
 
 ![][image8]  
 **Figure 12: Text size customization**
 
-#### Icon Attribute \{#icon-attribute}
+#### Icon Attribute 
 
 Set the name of the attribute that holds the icon image for each element (except the database).  
 This attribute (of string type) should be configured in AF with the corresponding file name, which is located in the installation folder (e.g., `..\PIPC\PIVision\Public\Images\TreeIcon`).
@@ -226,7 +192,7 @@ Each element or template can have a different icon.
 
 **Figure 15: Tree icon visualization**
 
-#### URL Attribute Name \{#url-attribute-name}
+#### URL Attribute Name 
 
 Configure the attribute name that contains the URL link for a specific tree branch.  
 This attribute may hold an HTTP address or a reference to another PI Vision display.  
@@ -240,28 +206,28 @@ An example configuration in AF for the URL attribute is shown below:
 ![][image12]  
 **Figure 17: URL attribute definition**
 
-#### DB URL \{#db-url}
+#### DB URL 
 
 Specify the URL to which the database connects.
 
 ![][image13]  
 **Figure 18: AF Database URL**
 
-#### Open Link Mode \{#open-link-mode}
+#### Open Link Mode 
 
 Decide whether the selected link opens in the same tab or in a new browser page.
 
 ![][image14]  
 **Figure 19: Open link mode**
 
-#### Template Jump Start/End \{#template-jump-start/end}
+#### Template Jump Start/End 
 
 This option hides nodes between the start element template (Template Jump start) and the end element template (Template Jump end).
 
 ![][image15]  
 **Figure 20: Template Jump start/end**
 
-#### Link Context \{#link-context}
+#### Link Context 
 
 Choose between:
 
@@ -271,7 +237,7 @@ Choose between:
 ![][image16]  
 **Figure 21: Link context**
 
-#### Filters \{#filters}
+#### Filters 
 
 In the "Filter" and "Template to show" sections, you can choose to load only selected templates or the entire tree.  
 (Be aware that some information might not be visible depending on the tree configuration.)
@@ -279,12 +245,12 @@ In the "Filter" and "Template to show" sections, you can choose to load only sel
 ![][image17]  
 **Figure 22: Tree loading filters**
 
-#### Template Filters \{#template-filters}
+#### Template Filters 
 
 **![][image18]**  
 **Figure 23: Template filters**
 
-#### Set Time Zone \{#set-time-zone}
+#### Set Time Zone 
 
 The "Imposta time zone" section lets you select a specific UTC. When enabled, all UTC values (ranging from \-12 to \+12 by default) are displayed.  
 You can deselect any values that should not be considered. Once flagged, a symbol appears next to the PI Vision title. Clicking this symbol generates a drop-down menu for selecting the UTC.
@@ -292,7 +258,7 @@ You can deselect any values that should not be considered. Once flagged, a symbo
 ![][image19]  
 **Figure 24: Set time zone**
 
-#### Display of the Icon and List of UTCs \{#display-of-the-icon-and-list-of-utcs}
+#### Display of the Icon and List of UTCs 
 
 Only the UTC values set in configuration will be selectable in the drop-down menu.  
 If there are too many UTCs to display at once, a scrollbar will appear.
@@ -301,7 +267,7 @@ If there are too many UTCs to display at once, a scrollbar will appear.
 
 **Figure 26: List of UTCs**
 
-#### Assets \{#assets}
+#### Assets 
 
 Attributes dragged into the display create the widget.  
 If multiple assets are present, you can delete an asset by clicking on its associated symbol.
@@ -309,7 +275,7 @@ If multiple assets are present, you can delete an asset by clicking on its assoc
 ![][image20]  
 **Figure 27: Assets section**
 
-#### Colors \{#colors}
+#### Colors 
 
 In the Colors section, you can choose colors for:
 
@@ -334,7 +300,7 @@ To configure the color:
 ![][image22]  
 **Figure 29: Color choice**
 
-#### Contacts \{#contacts}
+#### Contacts 
 
 Provides a web link to [e-matica.com](http://www.e-matica.com).
 
@@ -342,16 +308,16 @@ Provides a web link to [e-matica.com](http://www.e-matica.com).
 **Figure 30: Contacts**
 
 
-### Get Support \{#contacts}
+### Get Support 
 How [Get Support](/docs/ew_get_support) work.
 
 ---
 
-## INSTALLATION \{#installation}
+## INSTALLATION 
 
 Follow the instructions below for installation requirements and procedures.
 
-### 4.1 Requirements \{#4.1-requirements}
+### 4.1 Requirements 
 
 The following table lists the minimum software requirements:
 
@@ -363,7 +329,7 @@ The following table lists the minimum software requirements:
 
 *It is recommended to use Google Chrome for full compatibility with the widget.*
 
-### 4.2 Installation Procedure \{#4.2-installation-procedure}
+### 4.2 Installation Procedure 
 
 The installation involves copying several folders and files to the predefined PI Vision path.
 
@@ -383,7 +349,7 @@ The installation involves copying several folders and files to the predefined PI
    - **Images:** Contains the control icon `TQSTreeLink.png`  
    - **Libs:** Contains the libraries (e.g., `EWClasses.js`)
 
-### 4.3 Additional Notes \{#4.3-additional-notes}
+### 4.3 Additional Notes 
 
 For the widget to function correctly:
 
@@ -402,7 +368,7 @@ Steps:
 
 **Figure 32: Database configuration**
 
-## NOTES AND REFERENCES \{#notes-and-references}
+## NOTES AND REFERENCES 
 
 For more information about PI Vision, refer to the documentation on the OSIsoft © portal:  
 [OSIsoft Live Library](https://livelibrary.osisoft.com/LiveLibrary/web/ui.xql?action=html&resource=publist_home.html&pub_category=PI-Vision).
