@@ -101,7 +101,9 @@ The section *International* allows users to choose the language with which the u
 
 #### Launch Configuration
 
-In this section it is possible to define the coordinates of the \!before mentioned home button
+The map's initial geographical positioning, which determines its default view, can be configured through distinct methods: either static initial values or dynamic. The constituent values for this positioning are latitude, longitude and altitude.
+
+If configured as dynamic, these coordinates are programmatically derived from the attributes of the first asset defined within the system's configuration. It is imperative to note that in instances where multiple assets are present in the configuration, the system will issue an alert to the user, indicating potential ambiguity in the source of these dynamic coordinates. Conversely, if set to static, the precise numerical values for longitude, latitude, and altitude are directly utilized to establish the map's initial view.
 
 ![][image5]
 
