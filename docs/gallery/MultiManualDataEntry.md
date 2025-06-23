@@ -7,6 +7,8 @@ description: "The Multiple Manual Data Entry (MMDE) widget allows users to enter
 
 # \- PI Vision Widget \-
 
+<VideoPlayer platform="youtube" videoId="iuGlAiX7GGU" />
+
 ##### Revision History
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
