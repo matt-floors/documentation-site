@@ -247,8 +247,24 @@ Then, open the web.config file inside the PIVision folder `(..\\PIPC\\PIVision)`
 
 * that debug is set to "true"  
 * that the following parameters are present in the "appSettings" section  
-* that the following parameters are present in the "fileExtension" section (for using KMZ/KML files and Google as map provider)  
+```
+  <add key="ScriptSrcPolicy" value="Disable" /> 
+  <add key="FrameSrcPolicy" value="*" />
+```
+* that the following parameters are present in the "fileExtensions" section (for using KMZ/KML files and Google as map provider)  
+```
+  <remove fileExtension=".kml" />
+  <remove fileExtension=".kmz" />
+  <remove fileExtension=".wasm" />
+  add fileExtension=".kml" allowed="true" />
+  <add fileExtension=".kmz" allowed="true" />
+  <add fileExtension=".wasm" allowed="true" />
+```
 * that the following parameters are present in the "staticContent" section (for using KMZ or KML files)
+```
+  <mimeMap fileExtension=".kmz" mimeType="application/vnd.google-earth.kmz" />
+  <mimeMap fileExtension=".kml" mimeType="application/vnd.google-earth.kml+xml" />
+```
 
 Save the file and restart the IIS.
 
