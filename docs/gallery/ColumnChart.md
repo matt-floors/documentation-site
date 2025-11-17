@@ -15,6 +15,7 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
+| 9.3 | November 2025 | RS | EW\_ColumnChart\_v9.3.en.doc | Bug Fixing: (attribute comparison mode) Switching asset from Pi Vision correctly sets the colors for the attributes (element comparison mode) Switching asset from Pi Vision does not cancel the element anymore |
 | 9.2 | June 2025 | RS | EW\_ColumnChart\_v9.2.en.doc | Added select REST provider |
 | 9.1 | May 2025 | RS | EW\_ColumnChart\_v9.1.en.doc | Added feature Get Support |
 | 9.0 | March 2025 | ID | EW\_ColumnChart\_v9.0\_en.doc | Compatibility PI Vision 2024 and introduced new widget style |
@@ -53,7 +54,7 @@ The PI Vision *Column Chart* widget allows the visualization of the data by hist
 
 ###### *Figure 1 \- Column Chart*
 
-The PI Vision of AVEVA is available from 2017 and allows viewing real-time data from PI Data Archive and data organized in assets from the AVEVA Asset Framework (PI-AF). In order to achieve PI Vision displays, simply access to https://webServer/PIVision (indicating the correct name of the webserver machine).
+The PI Vision of AVEVA is available from 2017 and allows viewing real-time data from PI Data Archive and data organized in assets from the AVEVA Asset Framework (PI-AF). In order to achieve PI Vision displays, simply access https://webServer/PIVision (indicating the correct name of the webserver machine).
 
 The most recent versions of most HTML5 compatible browsers are supported on computers, tablets and phones running Android and iOS.
 
@@ -284,7 +285,7 @@ In particular it is necessary to copy the following files in the folder *..\\PIP
 
 ## Notes And References
 
-For more information about Vision PI refer to [documentation](https://docs.aveva.com/bundle/pi-vision/page/1025963.html) on AVEVA © portal.  
+For more information about Vision PI refer to [documentation](https://livelibrary.osisoft.com/LiveLibrary/web/ui.xql?action=html&resource=publist_home.html&pub_category=PI-Vision) on AVEVA © portal.  
 For information about the web service to refer to the specific documentation.  
 
 
