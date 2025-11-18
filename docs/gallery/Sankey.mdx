@@ -11,7 +11,8 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
-| 9.1 | October 2023 | RS | EW\_Sankey\_v9.1\_en.doc | -Added “add to  collection” functionality |
+| 9.2 | November 2025 | RS | EW\_Sankey\_v9.2\_en.doc | \- Bug fixing: Link between nodes shows properly. Scale factor calculated programmatically. Fixed widget resize. Tooltip shows UOM if present. |
+| 9.1 | October 2025 | RS | EW\_Sankey\_v9.1\_en.doc | \-Added “add to  collection” functionality |
 | 9.0 | June 2025 | RS | EW\_Sankey\_v9.0\_en.doc | \-Compatibility PIVision 2024 \-Added Get support\-Added rest provider \-Graphic restyle |
 | 8.0 | August 2023 | MM | EW\_Sankey\_v8.0\_en.doc | Compatibility with PI Vision 2023 |
 | 7.1 | September 2022 | MDC | EW\_Sankey\_v7.1\_en.doc | French browser management |
