@@ -149,11 +149,11 @@ In order to install the product, minimum requirements are listed in the table be
 
 (\*)This widget is also compatible with PI Vision 2024, 2023, 2022, 2021, 2020 and 2019\.
 
-## 
-
 We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
+
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
@@ -169,18 +169,30 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* sym-EWShowTooltip.js  
-* sym-EWShowTooltip-config.html  
-* sym-EWShowTooltip-template.html
+* **sym-EWShowTooltip.js**  
+* **sym-EWShowTooltip-config.html**  
+* **sym-EWShowTooltip-template.html**
 
-and in the folder *..\\PIPC\\PIVision\\Public* the following folders:
+Then, in the folder:  
 
-* *Images* that contains the control icon:  
-  * EWShowTooltip.png  
-* *Libs* with the libraries used:  
-  * EWClasses.js
+```
+...\PIPC\PIVision\Public
+```
 
-Then, open the web.config file inside the PIVision folder (..\\PIPC\\PIVision) and check that debug is set to "true" (Figure 11).  
+copy the following folders:
+
+* **Images** which includes the control icon:  
+  * `EWShowTooltip.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+
+Then, open the *web.config* file inside the PIVision folder 
+
+```
+...\PIPC\PIVision
+```
+
+and check that debug is set to "true" (Figure 11).
 Save the file and restart the IIS.
 
 ![][image13]

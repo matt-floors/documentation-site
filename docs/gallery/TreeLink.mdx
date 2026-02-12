@@ -375,9 +375,11 @@ The following table shows the minimum requirements for installing this product:
 | PI Vision | 2025(\*) | Requirements are related to the correct functioning of the PI Vision |
 | Table 1 \- Installation prerequisites *(\*) This widget is also compatible with PI Vision 2024, 2023, 2022, 2021, 2020 and 2019\.* |  |  |
 
-*It is recommended to use Google Chrome for full compatibility with the widget.*
+It is recommended to use Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
+
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
@@ -393,20 +395,30 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* Copy the following files into the folder:  
-  `..\PIPC\PIVision\Scripts\app\editor\symbols\ext`  
-    
-  * `sym-TQSTreeLink.js`  
-  * `sym-TQSTreeLink-config.html`  
-  * `sym-TQSTreeLink-template.html`
+* **sym-TQSTreeLink.js**  
+* **sym-TQSTreeLink-config.html**  
+* **sym-TQSTreeLink-template.html**
 
+Then, in the folder:  
 
-* In `..\PIPC\PIVision\Public\Images\TreeIcon`, place the icons used for elements within the tree.  
-    
-* In the folder `..\PIPC\PIVision\Public`, copy the following folders:  
-    
-  * **Images:** Contains the control icon `TQSTreeLink.png`  
-  * **Libs:** Contains the libraries (e.g., `EWClasses.js`)
+```
+...\PIPC\PIVision\Public
+```
+
+copy the following folders:
+
+* **Images** which includes the control icon:  
+  * `TQSTreeLink.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+
+Then, in the folder:  
+
+```
+...\PIPC\PIVision\Public\Images\TreeIcon
+```
+
+place the icons used for elements within the tree
 
 ### Additional notes for the use of the product  
 
