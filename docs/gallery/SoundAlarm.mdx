@@ -240,6 +240,8 @@ We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
 
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
+
 #### Widget Installer
 
 To install the widget’s files and common libraries using the widget installer follow the guide at this link:  
@@ -254,30 +256,33 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-1. **Copy Files:**  
-   Copy the following files into:  
-   `..\PIPC\PIVision\Scripts\app\editor\symbols\ext`  
-     
-   - `sym-EwSoundAlarm.js`  
-   - `sym-EwSoundAlarm-config.html`  
-   - `sym-EwSoundAlarm-template.html`
+* **sym-EwSoundAlarm.js**  
+* **sym-EwSoundAlarm-config.html**  
+* **sym-EwSoundAlarm-template.html**
 
-   
+Then, in the folder:  
 
-2. **Copy Folders:**  
-   In the folder `..\PIPC\PIVision\Public`, copy these folders:  
-     
-   - **Images:**  
-     • Contains the control icon: `EwSoundAlarm.png`  
-     • Also copy the image file to be associated with the alarm.  
-   - **Libs:**  
-     • Contains the libraries: `EWClasses.js` and `Moment.js`  
-   - **Sounds:**  
-     • Contains the ringtone to be used as the alarm audio file.
+```
+...\PIPC\PIVision\Public
+```
 
-   
+copy the following folders:
 
-   Save the file and restart IIS.
+* **Images** which includes the control icon:  
+  * `EwSoundAlarm.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+  * `moment.js`  
+* **Sounds** Contains the ringtone to be used as the alarm audio file 
+
+Then, open the *web.config* file inside the PIVision folder
+
+```
+...\PIPC\PIVision
+```
+
+and check that debug is set to "true".
+Save the file and restart the IIS.
 
 ### Additional notes for the use of the product
 
