@@ -172,11 +172,11 @@ In order to install the product, minimum requirements are listed in the table be
 
 (\*)This widget is also compatible with PI Vision 2024, 2023, 2022, 2021, 2020 and 2019\.
 
-## 
-
 We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
+
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
@@ -192,21 +192,24 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* *sym-EWOperativeProcedure-config.html*
+* **sym-EWOperativeProcedure.js**
+* **sym-EWOperativeProcedure-config.html**  
+* **sym-EWOperativeProcedure-template.html**  
 
-* *sym-EWOperativeProcedure-template.html*
+Then, in the folder:  
 
-* *sym-EWOperativeProcedure.js*
+```
+...\PIPC\PIVision\Public
+```
 
-and in the folder *..\\PIPC\\PIVision\\Public* the following folders:
+copy the following folders:
 
-* *Images* that contains the control icon:
-
-  * EWOperativeProcedure.png;  
-* *Libs* with the libraries used:  
-  * EWClasses.js  
-  * moment.js  
-  * TweenMax.min.js
+* **Images** which includes the control icon:  
+  * `EWOperativeProcedure.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+  * `moment.js`  
+  * `TweenMax.min.js`
 
 Then, open the web.config file inside the PIVision folder (..\\PIPC\\PIVision) and check that debug is set to "true" (Figure 11).  
 Save the file and restart the IIS.

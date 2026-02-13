@@ -225,7 +225,7 @@ Link to widget online documentation (click on link)
 
 ###### *Figure 16 \- Contacts*
 
-## INSTALLATION
+## Installation
 
 Following are the installation requirements and procedure.
 
@@ -243,6 +243,8 @@ We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
 
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
+
 #### Widget Installer
 
 To install the widget’s files and common libraries using the widget installer follow the guide at this link:  
@@ -257,19 +259,26 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* *sym-EWMapViewer-config.html*  
-* *sym-EWMapViewer-template.html*  
-* *sym-EWMapViewer.js*
+* **sym-EWAFDataTable.js**  
+* **sym-EWAFDataTable-config.html**  
+* **sym-EWAFDataTable-template.html**
 
-in the folder \\PIPC\\PIVision\\Public\\Libs:
+Then, in the folder:
 
-* *folder **Cesium** (entirely)*  
-* *EWClasses.js*
+```
+...\PIPC\PIVision\Public\Libs
+```
 
-in the folder `\\PIPC\\PIVision\\Public\\images:`
+* folder **Cesium** entirely
+* **EWClasses.js**
 
-* *folder **Icons svg** (entirely)*  
-* *EWMapViewer.png*
+Then, in the folder:
+
+```
+...\PIPC\PIVision\Public\Images
+```
+* folder **Icons svg** entirely
+* **EWMapViewer.png**
 
 Then, open the web.config file inside the PIVision folder `(..\\PIPC\\PIVision)` and check:
 

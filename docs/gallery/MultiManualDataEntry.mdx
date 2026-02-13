@@ -15,6 +15,7 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
+| 10.1 | February 2026 | RS | EW\_MultipleManualDataEntry\_10.1 | Bugfixing on order attributes functionality. |
 | 10.0 | January 2026 | RS | EW\_MultipleManualDataEntry\_10.0 | Compatibility PIVision 2025, changed configOptions function functionality and changed colors selection visuals.  |
 | 9.2 | June 2025 | RS | EW\_MultipleManualDataEntry\_9.2\_en.doc | Added select REST provider |
 | 9.1 | May 2025 | RS | EW\_MultipleManualDataEntry\_9.1\_en.doc | Added feature Get Support |
@@ -371,8 +372,6 @@ Following are the installation requirements and procedure.
 
 In order to install the product, minimum requirements are listed in the table below:
 
-## 
-
 | Software | Version | Note |
 | :---- | :---- | :---- |
 | PI Vision | 2025 (\*) | Requirements are linked to the PI Vision correct functioning |
@@ -384,6 +383,8 @@ In order to install the product, minimum requirements are listed in the table be
 *We suggest using Google Chrome for full compatibility with the widget.*
 
 ### Installation procedure
+
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
@@ -399,17 +400,23 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* sym-TQSMultiManualDataEntry.js  
-* sym-TQSMultiManualDataEntry-config.html  
-* sym-TQSMultiManualDataEntry-template.html
+* **sym-TQSMultiManualDataEntry.js**  
+* **sym-TQSMultiManualDataEntry-config.html**  
+* **sym-TQSMultiManualDataEntry-template.html**
 
-And in the folder ..\\PIPC\\PIVision\\Public the following folders:
+Then, in the folder:  
 
-* Images that contains the control icon:  
-  * TQSMultiManualDataEntry.png  
-* Libs with the libraries used:  
-  * EWClasses.js  
-  * moment.js
+```
+...\PIPC\PIVision\Public
+```
+
+copy the following folders:
+
+* **Images** which includes the control icon:  
+  * `TQSMultiManualDataEntry.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+  * `moment.js`  
 
 Then, open the web.config file inside the PIVision folder (..\\PIPC\\PIVision) and check that debug is set to "true" (Figure 33). Save the file and restart the IIS.  
 ![][image34]

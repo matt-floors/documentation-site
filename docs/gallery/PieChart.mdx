@@ -180,6 +180,8 @@ We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
 
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
+
 #### Widget Installer
 
 To install the widget’s files and common libraries using the widget installer follow the guide at this link:  
@@ -194,17 +196,23 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-* sym-EWPieChart.js  
-* sym-EWPieChart-config.html  
-* sym-EWPieChart-template.html
+* **sym-EWPieChart.js**  
+* **sym-EWPieChart-config.html**  
+* **sym-EWPieChart-template.html**
 
-and in the folder ..\\PIPC\\PIVision\\Public the following folders:
+Then, in the folder:  
 
-* Images that contains the control icon:  
-  * EWPieChart.png  
-* Libs with the libraries used:  
-  * EWClasses.js;  
-  * d3.v4.7.2.pie.js
+```
+...\PIPC\PIVision\Public
+```
+
+copy the following folders:
+
+* **Images** which includes the control icon:  
+  * `EWPieChart.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+  * `d3.v4.7.2.pie.js`
 
 Then, open the *web.config* file inside the PIVision folder 
 
@@ -212,7 +220,8 @@ Then, open the *web.config* file inside the PIVision folder
 ...\PIPC\PIVision
 ```
 
-and check that debug is set to "true" (Figure 14).  
+and check that debug is set to "true" (Figure 14).
+Save the file and restart the IIS.
 ![][image16]
 
 ###### *Figure 14 \- web.config*

@@ -220,6 +220,8 @@ The minimum installation requirements are as follows:
 
 ### Installation procedure
 
+To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
+
 #### Widget Installer
 
 To install the widget’s files and common libraries using the widget installer follow the guide at this link:  
@@ -234,34 +236,32 @@ In particular, it is necessary to copy the following files in the folder
 ...\PIPC\PIVision\Scripts\app\editor\symbols\ext
 ```
 
-1. **Copy Files:**  
-   Copy the following files into the folder:  
-   `..\PIPC\PIVision\Scripts\app\editor\symbols\ext`  
-     
-   - `sym-TQSLink.js`  
-   - `sym-TQSLink-config.html`  
-   - `sym-TQSLink-template.html`
+* **sym-TQSLink.js**  
+* **sym-TQSLink-config.html**  
+* **sym-TQSLink-template.html**
 
-   
+Then, in the folder:  
 
-2. **Copy Folders:**  
-   In the folder `..\PIPC\PIVision\Public`, copy the following folders:  
-     
-   - **Images:** Contains the control icon `TQSLink.png`  
-   - **Libs:** Contains the libraries (e.g., `EWClasses.js`)
+```
+...\PIPC\PIVision\Public
+```
 
-   
+copy the following folders:
 
-3. **Additional Configuration for PI Vision 2020:**  
-   If the installed version of PI Vision is 2020, add the following line within the `<appsettings>` section of `web.config`:
+* **Images** which includes the control icon:  
+  * `TQSLink.png`
+* **Libs** which includes the libraries:  
+  * `EWClasses.js`  
+
+### Additional notes for the use of the product
+
+If the installed version of PI Vision is 2020, add the following line within the `<appsettings>` section of `web.config`:
 
 ```
 <add key="FrameSrcPolicy" value="*" />
 ```
 
-	Save the file and restart the IIS.
-
-### Additional notes for the use of the product 
+Save the file and restart the IIS.
 
 The widget can be used in stand-alone mode or in conjunction with the *EW\_TreeEvent*. In the first case, no additional configuration is needed as the information is entered at the widget configuration level.  
 Otherwise, it is possible to indicate an attribute in the link to be opened and in this case to move from one page to another, you must configure in the elements a dedicated attribute.  
