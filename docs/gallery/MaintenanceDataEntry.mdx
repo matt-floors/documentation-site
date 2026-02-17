@@ -162,8 +162,6 @@ We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
 
-To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
-
 #### Widget Installer
 
 To install the widget’s files and common libraries using the widget installer follow the guide at this link:  
@@ -171,30 +169,25 @@ To install the widget’s files and common libraries using the widget installer 
 
 #### Manual installation
 
-The installation procedure includes a copy of the folders and files in the default path of the PI Vision.  
-In particular, it is necessary to copy the following files in the folder 
+The installation procedure involves copying various folders and files into the predefined PI Vision path.
 
-```
-...\PIPC\PIVision\Scripts\app\editor\symbols\ext
-```
+In particular, copy the following files to:  
+`..\PIPC\PIVision\Scripts\app\editor\symbols\ext`
 
 * **sym-EWMaintenanceDataEntry.js**  
 * **sym-EWMaintenanceDataEntry-config.html**  
 * **sym-EWMaintenanceDataEntry-template.html**
 
 Then, in the folder:  
-
-```
-...\PIPC\PIVision\Public
-```
+`..\PIPC\PIVision\Public`
 
 copy the following folders:
 
 * **Images** which includes the control icon:  
-  * `EWMaintenanceDataEntry.png`
+  * `EWMaintenanceDataEntry.png`  
 * **Libs** which includes the libraries:  
   * `EWClasses.js`  
-  * `moment.js`  
+  * `moment.js`
 
 Then, open the web.config file inside the PIVision folder (..\\PIPC\\PIVision) and check that debug is set to "true" (Figure 10).  
 Save the file and restart the IIS.

@@ -215,15 +215,14 @@ The following table shows the minimum requirements for installing this product:
 | Software | Version | Note |
 | :---- | :---- | :---- |
 | PI Vision | 2025(\*) | Requirements are related to the correct functioning of the PI Vision |
-| *(\*) This widget is also compatible with PI Vision 2024, 2023, 2022, 2021, 2020 and 2019\.* |  |  |
 
 ###### *Table 1 \- Installation prerequisites*
+
+(\*)This widget is also compatible with PI Vision 2024, 2023, 2022, 2021, 2020 and 2019\.
 
 We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
-
-To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
@@ -232,27 +231,22 @@ To install the widget’s files and common libraries using the widget installer 
 
 #### Manual installation
 
-The installation procedure includes a copy of the folders and files in the default path of the PI Vision.  
-In particular, it is necessary to copy the following files in the folder 
+The installation procedure involves copying various folders and files into the predefined PI Vision path.
 
-```
-...\PIPC\PIVision\Scripts\app\editor\symbols\ext
-```
+In particular, copy the following files to:  
+`..\PIPC\PIVision\Scripts\app\editor\symbols\ext`
 
 * **sym-EWStackedChart.js**  
 * **sym-EWStackedChart-config.html**  
 * **sym-EWStackedChart-template.html**
 
 Then, in the folder:  
-
-```
-...\PIPC\PIVision\Public
-```
+`..\PIPC\PIVision\Public`
 
 copy the following folders:
 
 * **Images** which includes the control icon:  
-  * `EWStackedChart.png`
+  * `EWStackedChart.png`  
 * **Libs** which includes the libraries:  
   * `EWClasses.js`  
   * `moment.js`  
