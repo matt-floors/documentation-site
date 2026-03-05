@@ -114,10 +114,10 @@ const config: Config = {
               label: 'Youtube',
               href: 'https://www.youtube.com/@e-matica',
             },
-            {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/e_maticasrl?igsh=d2tmcWoxeG03dHNi',
-            },
+            // {
+            //   label: 'Instagram',
+            //   href: 'https://www.instagram.com/e_maticasrl?igsh=d2tmcWoxeG03dHNi',
+            // },
             {
               label: 'X',
               href: 'https://x.com/ematicasrl',
@@ -136,6 +136,15 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} e-matica. Built with Docusaurus.`,
     },
+    plugins: [
+      [
+        'vercel-analytics',
+        {
+          debug: true,
+          mode: 'auto',
+        },
+      ],
+    ],
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
