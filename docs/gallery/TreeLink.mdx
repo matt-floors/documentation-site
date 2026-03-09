@@ -84,18 +84,18 @@ To insert the EW Tree Link, first select the control icon, navigate to the desir
 
 ![][image1]
 
-###### *Figure 1: PI Vision Menu*
+###### *Figure 1 \- PI Vision Menu*
 
 When the mouse button is released, the widget initializes with a “Database” connection.
 
 ![][image2]![][image3]
 
-###### *Figure 2: Root selection*
+###### *Figure 2 \- Root selection*
 
 By selecting the contextual menu, you can access the widget configuration box.  
 ![][image4]
 
-###### *Figure 3: Contextual Menu*
+###### *Figure 3 \- Contextual Menu*
 
 ## Functionality and use
 
@@ -117,26 +117,25 @@ Some parameters are automatically visible, while others require saving the displ
 
 ![][image5]
 
-###### *Figure 4: Refresh page reminder*
+###### *Figure 4 \- Refresh page reminder*
 
 #### Language
 
 In the International section, you can choose the language for labels and configuration parameters.  
 ![][image6]
 
-###### *Figure 5: Language selection*
+###### *Figure 5 \- Language selection*
 
 ### Widget Configuration Tree Link
 
 #### Selected Widget Tree Link
 
-Since the merge of the Tree Event and Tree Link in one widget the user will be able to change between the two configurations in the configuration panel.
-
-#### 
+Since the merge of the Tree Event and Tree Link in one widget the user will be able to change between the two configurations in the configuration panel.  
+If the “Selected Widget” is set on “TreeEvent” please consult the [https://documentation.e-matica.com/docs/gallery/TreeEvent](https://documentation.e-matica.com/docs/gallery/TreeEvent) documentation for the configuration of the widget.
 
 #### ![][image7]
 
-###### *Figure 6: Selected Widget*
+###### *Figure 6 \- Selected Widget*
 
 #### WebAPI
 
@@ -144,7 +143,7 @@ In the Server Web API section, set the machine name for the web API. If it coinc
 
 ![][image8]
 
-###### *Figure 7: Web API server option*
+###### *Figure 7 \- Web API server option*
 
 #### Root Table
 
@@ -152,13 +151,13 @@ An AF Table can be set to manage the tree root dynamically based on the user.
 
 ![][image9]
 
-###### *Figure 8: Web server selection*
+###### *Figure 8 \- Web server selection*
 
 Below is an example of an AF table:
 
 ![][image10]
 
-###### *Figure 9: AF Table for dynamic Root management*
+###### *Figure 9 \- AF Table for dynamic Root management*
 
 #### Connection Types
 
@@ -173,14 +172,14 @@ The tree view root (set during element insertion) can be modified by choosing be
 For connection type "Element", the **Fixed tree** option allows defining a fixed path from which the tree view must start. If KeepTree mode is enabled, the Fixed tree field is ignored.  
 ![][image11]
 
-###### *Figure 10: Root selection*
+###### *Figure 10 \- Root selection*
 
 #### REST Provider
 
 Allows the user to select between default or custom protocol for api requests.  
 ![][image12]
 
-##### Figure 20 \- REST Provider selection
+##### Figure 11 \- REST Provider selection
 
 #### Settings
 
@@ -195,7 +194,7 @@ Settings allow you to:
 
 ![][image13]
 
-###### *Figure 11: Other settings*
+###### *Figure 12 \- Other settings*
 
 #### Icon Attribute
 
@@ -203,16 +202,16 @@ Set the name of the attribute that holds the icon image for each element (except
 This attribute (of string type) should be configured in AF with the corresponding file name, which is located in the installation folder (e.g., `..\PIPC\PIVision\Public\Images\TreeIcon`).  
 ![][image14]
 
-###### *Figure 12: Icon attribute*
+###### *Figure 13 \- Icon attribute*
 
 ![][image15]
 
-###### *Figure 13: Element icon*
+###### *Figure 14 \- Element icon*
 
 Each element or template can have a different icon.  
 ![][image16]
 
-###### *Figure 14: Tree icon visualization*
+###### *Figure 15 \-Tree icon visualization*
 
 #### URL Attribute Name
 
@@ -221,33 +220,33 @@ This attribute may hold an HTTP address or a reference to another PI Vision disp
 For example, if a PI Vision display URL is `http://webserver/PIVision/#/Displays/40005/DisplayGruppo`, only the identifying portion of the address is needed.  
 ![][image17]
 
-###### *Figure 15: URL attribute*
+###### *Figure 16 \- URL attribute*
 
 An example configuration in AF for the URL attribute is shown below:  
 ![][image18]
 
-###### *Figure 16: URL attribute definition*
+###### *Figure 17 \- URL attribute definition*
 
 #### DB URL
 
 Specify the URL to which the database connects.  
 ![][image19]
 
-###### *Figure 17: AF Database URL*
+###### *Figure 18 \- AF Database URL*
 
 #### Open Link Mode
 
 Decide whether the selected link opens in the same tab or in a new browser page.  
 ![][image20]
 
-###### *Figure 18: Open link mode*
+###### *Figure 19 \- Open link mode*
 
 #### Template Jump Start/End
 
 This option hides nodes between the start element template (Template Jump start) and the end element template (Template Jump end).  
 ![][image21]
 
-###### *Figure 19: Template Jump start/end*
+###### *Figure 20 \- Template Jump start/end*
 
 #### Link Context
 
@@ -258,7 +257,7 @@ Choose between:
 
 ![][image22]
 
-###### *Figure 20: Link context*
+###### *Figure 21 \- Link context*
 
 #### Filters
 
@@ -266,13 +265,13 @@ In the "Filter" and "Template to show" sections, you can choose to load only sel
 (Be aware that some information might not be visible depending on the tree configuration.)  
 ![][image23]
 
-###### *Figure 21: Tree loading filters*
+###### *Figure 22 \- Tree loading filters*
 
 #### Template Filters
 
 **![][image24]**
 
-###### *Figure 22: Template filters*
+###### *Figure 23 \- Template filters*
 
 #### Set Time Zone
 
@@ -280,7 +279,7 @@ The "Imposta time zone" section lets you select a specific UTC. When enabled, al
 You can deselect any values that should not be considered. Once flagged, a symbol appears next to the PI Vision title. Clicking this symbol generates a drop-down menu for selecting the UTC.  
 ![][image25]
 
-###### *Figure 23: Set time zone*
+###### *Figure 24 \- Set time zone*
 
 #### Display of the Icon and List of UTCs
 
@@ -288,11 +287,11 @@ Only the UTC values set in configuration will be selectable in the drop-down men
 If there are too many UTCs to display at once, a scrollbar will appear.  
 **![][image26]**
 
-###### *Figure 24: Display of the icon in the PI Vision*
+###### *Figure 25 \- Display of the icon in the PI Vision*
 
 ![][image27]
 
-###### *Figure 25: List of UTCs*
+###### *Figure 26 \- List of UTCs*
 
 ### Widget Configuration Tree Event 
 
@@ -303,30 +302,28 @@ It can choose between TreeLink and TreeEvent
 
 #### ![][image28]
 
-##### Figure 26: Selected Widget
+##### Figure 27 \- Selected Widget
 
 #### WebAPI
 
 In the Configuration section, the user has to set the name of the machine involving web API. If this machine coincides with the web server, this parameter can be left blank.  
 ![][image29]
 
-##### Figure 27 \- Web API server option
+##### Figure 28 \- Web API server option
 
 #### Connection type
 
 It is possible to modify the tree view root, set during the insertion of the element into the display, and choose Database or Element.  
 ![][image30]
 
-##### Figure 28 \- Root selection
-
-#### 
+##### Figure 29 \- Root selection
 
 #### Template Name
 
 It is useful to manage event frames; this parameter refers to the name of the element template, to which event frames are associated. The Element template name is located in the Configuration section.  
 ![][image31]
 
-##### Figure 29 \- Template
+##### Figure 30 \- Template
 
 #### Assets
 
@@ -334,21 +331,21 @@ Attributes dragged into the display create the widget.
 If multiple assets are present, you can delete an asset by clicking on its associated symbol.  
 ![][image32]
 
-##### Figure 30: Assets section
+##### Figure 31: Assets section
 
 #### Appearance Settings
 
 In the Appearance Settings, you can modify the appearance of the widget.  
 ![][image33]
 
-##### Figure 31: Appearance Settings
+##### Figure 32 \- Appearance Settings
 
 #### Colors Selection
 
 To select a color click on the color’s dropdown menu. The Gradient panel will open. From this panel the user can select which color, transparency or color format he wants. A second panel named Palette view is present if the user wants to select from a few pre-determined colors. Confirm with the button ![][image34].  
 ![][image35]![][image36]
 
-###### *Figure 32 \- Choice of color*
+###### *Figure 33 \- Choice of color*
 
 #### Contacts
 
@@ -360,7 +357,7 @@ Link to widget online documentation (click on link)
 
 ![][image37]
 
-##### Figure 33: Contacts
+##### Figure 34 \- Contacts
 
 ## Installation
 
