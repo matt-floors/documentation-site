@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Widget Gallery
+title: Widgets Gallery
 ---
 
 PI Vision is an intuitive web-based application that you can use to retrieve, monitor, and analyze PI System

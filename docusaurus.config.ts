@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Widget Gallery',
+  title: 'Ematica PI Vision Widgets',
   tagline: 'Your Data, Your Way: Custom PI Vision Widgets, Designed for Clarity.',
   favicon: 'img/favicon.ico',
 
