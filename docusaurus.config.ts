@@ -34,8 +34,11 @@ const config: Config = {
   presets: [
     [
       'classic',
-      
       {
+        gtag: {
+          trackingID: 'G-EJQMT8QB4P',
+          anonymizeIP: true,
+        },
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
@@ -64,6 +67,7 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+      
     ],
   ],
 
