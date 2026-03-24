@@ -16,6 +16,6 @@ here but it is continuing to grow.
 - A holistic asset view will empower your people
 - Centralized management of asset information
 
-:::note 
+:::note
   e-matica is also available for its extensive knowledge to improve your asset management strategy through the PI AF implementation or revision, including the beauty of useful PI Vision Widgets.
 :::
