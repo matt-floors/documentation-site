@@ -15,6 +15,7 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
+| 10.1 | April 2026 | RS | EW\_Gantt\_v.10.1 | Minor bugfix |
 | 10.0 | January 2026 | RS | EW\_Gantt\_v.10.0 | Compatibility PIVision 2025, changed configOptions function functionality and changed colors selection visuals.  |
 | 9.2 | June 2025 | RS | EW\_Gantt\_v.9.2\_en.doc | Added select REST provider |
 | 9.1 | May 2025 | RS | EW\_Gantt\_v.9.1\_en.doc | Added feature Get Support |
@@ -264,8 +265,9 @@ In this case the description contains the code “20”. Then the table present 
  Where respectively each column defines:
 
 * **Description**, the description of the alarm;  
-* **Status**, an identification number used to codify the event;  
-* **Color**, the color to show on the gantt widget for the event frame; 
+* **Status**, an identification number used to codify the event;   
+  **Important:** *The Status number must be a 2-digit number between 10 and 99\.*  
+* **Color**, the color to show on the gantt widget for the event frame;
 
 ![][image24]
 
@@ -359,8 +361,6 @@ In order to install the product, minimum requirements are listed in the table be
 We suggest using Google Chrome for full compatibility with the widget.
 
 ### Installation procedure
-
-To install widgets you can follow two different ways: via widget installer or via manual installation of the files.
 
 #### Widget Installer
 
