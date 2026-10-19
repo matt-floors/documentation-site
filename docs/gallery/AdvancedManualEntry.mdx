@@ -15,6 +15,7 @@ import VideoPlayer from '@site/src/components/VideoPlayer';
 
 | Revision  No. | Date | Author | Document ID | Description of changes |
 | :---- | :---- | :---- | :---- | :---- |
+| 10.2 | October 2026 | RS | EW\_AdvancedManualEntry\_v10.2 | Bugfix on bulk import. |
 | 10.1 | April 2026 | RS | EW\_AdvancedManualEntry\_v10.1 | Added ServerWebApi field in configurations. |
 | 10.0 | January 2026 | RS | EW\_AdvancedManualEntry\_v10.0 | Compatibility PIVision 2025, changed configOptions function functionality and changed colors selection visuals. The time column icons now follow the text color. Multi state bug fixed. |
 | 9.4 | September 2025 | RS | EW\_AdvancedManualEntry\_v9.4 | Bug Fix Inverted Datasource on onDataSourceChange Method Added section Manage Assets |
@@ -110,7 +111,9 @@ The export data section contains two toggles:
 #### Bulk Import
 
 Clicking on the bulk import button allows the user to load a csv file containing the data.  
-When the file is loaded a new window will appear containing a table with all the data loaded and, if the columns Path, Value and Time are present they will be automatically selected and colored with different colors. The user can freely change the selected columns from which the path, value and the time will be used for the bulk import.  
+When the file is loaded a new window will appear containing a table with all the data loaded and, if the columns Path, Value and Time are present they will be automatically selected and colored with different colors.
+The user can freely change the selected columns from which the path, value and the time will be used for the bulk import.  
+The csv file can use ,(comma) or ;(semicolon) as columns separator but the time column must be **ISO format.**  
 **The column containing the paths of the elements is mandatory for the correct working of the widget.**  
 **![][image8]**
 
